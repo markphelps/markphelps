@@ -1,16 +1,63 @@
 ### Hi there 👋
 
-<!--
-**markphelps/markphelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👷 Check out what I'm currently working on
 
-Here are some ideas to get you started:
+- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (2 days ago)
+- [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) - OCI Distribution Specification (4 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - A modern feature flag solution (6 days ago)
+- [github/docs](https://github.com/github/docs) - This is the open-source repo for docs.github.com.  (1 month ago)
+- [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (1 month ago)
+- [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (1 month ago)
+- [shayneburgess/container](https://github.com/shayneburgess/container) -  (3 months ago)
+- [deislabs/oras](https://github.com/deislabs/oras) - OCI Registry As Storage (5 months ago)
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. (5 months ago)
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line. (9 months ago)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 My latest projects
+
+- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage
+- [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt
+- [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt
+- [markphelps/retry](https://github.com/markphelps/retry) - (Another) retriable errors package for go
+- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types
+- [markphelps/timebot](https://github.com/markphelps/timebot) - Slackbot to show the current time in multiple timezones
+- [markphelps/example](https://github.com/markphelps/example) - Golang cli application example
+- [markphelps/flipt](https://github.com/markphelps/flipt) - A modern feature flag solution
+- [markphelps/go-trace](https://github.com/markphelps/go-trace) - Implementing a path tracer in Go
+- [markphelps/pingbot](https://github.com/markphelps/pingbot) - Ruby service notification microservices using Rails/Sinatra/Redis/Kafka
+
+#### 🔭 Latest releases I've contributed to
+
+- [markphelps/flipt](https://github.com/markphelps/flipt) ([v0.18.1](https://github.com/markphelps/flipt/releases/tag/v0.18.1), 1 week ago) - A modern feature flag solution
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) ([v1.7.0](https://github.com/sirupsen/logrus/releases/tag/v1.7.0), 1 week ago) - Structured, pluggable logging for Go.
+- [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) ([v0.3.0](https://github.com/markphelps/flipt-grpc-go/releases/tag/v0.3.0), 1 month ago) - GRPC Go client for Flipt
+- [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) ([v0.3.0](https://github.com/markphelps/flipt-grpc-ruby/releases/tag/v0.3.0), 1 month ago) - GRPC Ruby client for Flipt
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) ([v2.4.5](https://github.com/jrnl-org/jrnl/releases/tag/v2.4.5), 1 month ago) - Collect your thoughts and notes without leaving the command line.
+- [deislabs/oras](https://github.com/deislabs/oras) ([v0.8.1](https://github.com/deislabs/oras/releases/tag/v0.8.1), 8 months ago) - OCI Registry As Storage
+
+#### 📜 My recent blog posts
+
+- [Handling Errors in Your HTTP Handlers](https://markphelps.me/2020/04/handling-errors-in-your-http-handlers/) (6 months ago)
+- [Profiling to Reduce Memory Allocations](https://markphelps.me/2019/11/profiling-to-reduce-memory-allocations/) (11 months ago)
+- [Speed Up Your Go Builds With Actions Cache](https://markphelps.me/2019/11/speed-up-your-go-builds-with-actions-cache/) (11 months ago)
+- [Migrating From Travis to GitHub Actions](https://markphelps.me/2019/09/migrating-from-travis-to-github-actions/) (1 year ago)
+- [How to Take Three Years to Finish Your Side Project](https://markphelps.me/2019/04/how-to-take-three-years-to-finish-your-side-project/) (2 years ago)
+
+#### 👯 Check out some of my recent followers
+
+- [dbl0null](https://github.com/dbl0null)
+- [ramazu](https://github.com/ramazu)
+- [ik5](https://github.com/ik5)
+- [tntobias](https://github.com/tntobias)
+- [leandro-lugaresi](https://github.com/leandro-lugaresi)
+
+#### 💬 Feedback
+
+Say Hello, I don't bite!
+
+#### 📫 How to reach me
+
+- Twitter: https://twitter.com/mark_a_phelps
+- Blog: https://markphelps.me/
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
