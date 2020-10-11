@@ -1,13 +1,13 @@
 ### Hi, I'm Mark 👋
 
-* Creator of [Flipt](https://github.com/markphelps/flipt), an open source feature flag solution.
+* Creator of [Flipt](https://github.com/markphelps/flipt), an open-source feature flag solution.
 * Senior Engineer on the GitHub Packages team, working on [GitHub Container Registry](https://github.blog/2020-09-01-introducing-github-container-registry/).
 * Dad, Husband, Human
 
 #### 👷 Check out what I'm currently working on
 
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source feature flag solution (today)
-- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (2 days ago)
+- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (today)
 - [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) - OCI Distribution Specification (4 days ago)
 - [github/docs](https://github.com/github/docs) - This is the open-source repo for docs.github.com.  (1 month ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (1 month ago)
