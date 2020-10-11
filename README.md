@@ -1,17 +1,16 @@
-### Hi there 👋
+### Hi, I'm Mark 👋
+
+* Creator of [Flipt](https://github.com/markphelps/flipt), an open source feature flag solution.
+* Senior Engineer on the GitHub Packages team, working on [GitHub Container Registry](https://github.blog/2020-09-01-introducing-github-container-registry/).
+* Dad, Husband, Human
 
 #### 👷 Check out what I'm currently working on
 
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source feature flag solution (today)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (2 days ago)
 - [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) - OCI Distribution Specification (4 days ago)
-- [markphelps/flipt](https://github.com/markphelps/flipt) - A modern feature flag solution (6 days ago)
 - [github/docs](https://github.com/github/docs) - This is the open-source repo for docs.github.com.  (1 month ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (1 month ago)
-- [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (1 month ago)
-- [shayneburgess/container](https://github.com/shayneburgess/container) -  (3 months ago)
-- [deislabs/oras](https://github.com/deislabs/oras) - OCI Registry As Storage (5 months ago)
-- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. (5 months ago)
-- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line. (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,20 +19,14 @@
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt
 - [markphelps/retry](https://github.com/markphelps/retry) - (Another) retriable errors package for go
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types
-- [markphelps/timebot](https://github.com/markphelps/timebot) - Slackbot to show the current time in multiple timezones
-- [markphelps/example](https://github.com/markphelps/example) - Golang cli application example
-- [markphelps/flipt](https://github.com/markphelps/flipt) - A modern feature flag solution
-- [markphelps/go-trace](https://github.com/markphelps/go-trace) - Implementing a path tracer in Go
-- [markphelps/pingbot](https://github.com/markphelps/pingbot) - Ruby service notification microservices using Rails/Sinatra/Redis/Kafka
 
 #### 🔭 Latest releases I've contributed to
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) ([v0.18.1](https://github.com/markphelps/flipt/releases/tag/v0.18.1), 1 week ago) - A modern feature flag solution
+- [markphelps/flipt](https://github.com/markphelps/flipt) ([v0.18.1](https://github.com/markphelps/flipt/releases/tag/v0.18.1), 1 week ago) - An open-source feature flag solution
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) ([v1.7.0](https://github.com/sirupsen/logrus/releases/tag/v1.7.0), 1 week ago) - Structured, pluggable logging for Go.
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) ([v0.3.0](https://github.com/markphelps/flipt-grpc-go/releases/tag/v0.3.0), 1 month ago) - GRPC Go client for Flipt
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) ([v0.3.0](https://github.com/markphelps/flipt-grpc-ruby/releases/tag/v0.3.0), 1 month ago) - GRPC Ruby client for Flipt
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) ([v2.4.5](https://github.com/jrnl-org/jrnl/releases/tag/v2.4.5), 1 month ago) - Collect your thoughts and notes without leaving the command line.
-- [deislabs/oras](https://github.com/deislabs/oras) ([v0.8.1](https://github.com/deislabs/oras/releases/tag/v0.8.1), 8 months ago) - OCI Registry As Storage
 
 #### 📜 My recent blog posts
 
@@ -50,10 +43,6 @@
 - [ik5](https://github.com/ik5)
 - [tntobias](https://github.com/tntobias)
 - [leandro-lugaresi](https://github.com/leandro-lugaresi)
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
