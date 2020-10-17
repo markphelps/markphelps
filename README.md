@@ -1,13 +1,13 @@
 ### Hi, I'm Mark 👋
 
-* Creator of [Flipt](https://github.com/markphelps/flipt), an open-source feature flag solution.
+* Creator of [Flipt](https://github.com/markphelps/flipt), an open-source, on-prem feature flag solution.
 * Senior Engineer on the GitHub Packages team, working on [GitHub Container Registry](https://github.blog/2020-09-01-introducing-github-container-registry/).
 * Dad, Husband, Human
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source feature flag solution (6 days ago)
-- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (6 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
+- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (today)
 - [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) - OCI Distribution Specification (1 week ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (1 month ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (1 month ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) ([v0.18.1](https://github.com/markphelps/flipt/releases/tag/v0.18.1), 2 weeks ago) - An open-source feature flag solution
+- [markphelps/flipt](https://github.com/markphelps/flipt) ([v0.18.1](https://github.com/markphelps/flipt/releases/tag/v0.18.1), 2 weeks ago) - An open-source, on-prem feature flag solution
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) ([v1.7.0](https://github.com/sirupsen/logrus/releases/tag/v1.7.0), 2 weeks ago) - Structured, pluggable logging for Go.
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) ([v0.3.0](https://github.com/markphelps/flipt-grpc-go/releases/tag/v0.3.0), 1 month ago) - GRPC Go client for Flipt
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) ([v0.3.0](https://github.com/markphelps/flipt-grpc-ruby/releases/tag/v0.3.0), 1 month ago) - GRPC Ruby client for Flipt
