@@ -10,7 +10,7 @@
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (3 days ago)
 - [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) - OCI Distribution Specification (1 week ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (1 month ago)
-- [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (1 month ago)
+- [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (1 month ago)
 
 #### 🌱 My latest projects
 
