@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (5 days ago)
-- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (5 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (6 days ago)
+- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (6 days ago)
 - [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) - OCI Distribution Specification (2 weeks ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (1 month ago)
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (1 month ago)
