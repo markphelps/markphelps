@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (4 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (5 days ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (2 weeks ago)
 - [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) - OCI Distribution Specification (4 weeks ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (2 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) ([v1.0.0](https://github.com/markphelps/flipt/releases/tag/v1.0.0), 4 days ago) - An open-source, on-prem feature flag solution
+- [markphelps/flipt](https://github.com/markphelps/flipt) ([v1.0.0](https://github.com/markphelps/flipt/releases/tag/v1.0.0), 5 days ago) - An open-source, on-prem feature flag solution
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) ([v1.7.0](https://github.com/sirupsen/logrus/releases/tag/v1.7.0), 1 month ago) - Structured, pluggable logging for Go.
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) ([v0.3.0](https://github.com/markphelps/flipt-grpc-go/releases/tag/v0.3.0), 2 months ago) - GRPC Go client for Flipt
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) ([v0.3.0](https://github.com/markphelps/flipt-grpc-ruby/releases/tag/v0.3.0), 2 months ago) - GRPC Ruby client for Flipt
@@ -31,7 +31,7 @@
 #### 📜 My recent blog posts
 
 - [Handling Errors in Your HTTP Handlers](https://markphelps.me/2020/04/handling-errors-in-your-http-handlers/) (6 months ago)
-- [Profiling to Reduce Memory Allocations](https://markphelps.me/2019/11/profiling-to-reduce-memory-allocations/) (11 months ago)
+- [Profiling to Reduce Memory Allocations](https://markphelps.me/2019/11/profiling-to-reduce-memory-allocations/) (1 year ago)
 - [Speed Up Your Go Builds With Actions Cache](https://markphelps.me/2019/11/speed-up-your-go-builds-with-actions-cache/) (1 year ago)
 - [Migrating From Travis to GitHub Actions](https://markphelps.me/2019/09/migrating-from-travis-to-github-actions/) (1 year ago)
 - [How to Take Three Years to Finish Your Side Project](https://markphelps.me/2019/04/how-to-take-three-years-to-finish-your-side-project/) (2 years ago)
