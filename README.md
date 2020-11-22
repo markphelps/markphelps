@@ -38,11 +38,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [noahmatisoff](https://github.com/noahmatisoff)
 - [dbl0null](https://github.com/dbl0null)
 - [ramazu](https://github.com/ramazu)
 - [ik5](https://github.com/ik5)
 - [tntobias](https://github.com/tntobias)
-- [leandro-lugaresi](https://github.com/leandro-lugaresi)
 
 #### 📫 How to reach me
 
