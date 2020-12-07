@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (5 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (6 days ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (3 weeks ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 month ago)
 - [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) - OCI Distribution Specification (2 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) ([v2.5](https://github.com/jrnl-org/jrnl/releases/tag/v2.5), 4 weeks ago) - Collect your thoughts and notes without leaving the command line.
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) ([v2.5](https://github.com/jrnl-org/jrnl/releases/tag/v2.5), 1 month ago) - Collect your thoughts and notes without leaving the command line.
 - [markphelps/flipt](https://github.com/markphelps/flipt) ([v1.0.0](https://github.com/markphelps/flipt/releases/tag/v1.0.0), 1 month ago) - An open-source, on-prem feature flag solution
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) ([v1.7.0](https://github.com/sirupsen/logrus/releases/tag/v1.7.0), 2 months ago) - Structured, pluggable logging for Go.
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) ([v0.3.0](https://github.com/markphelps/flipt-grpc-go/releases/tag/v0.3.0), 3 months ago) - GRPC Go client for Flipt
