@@ -30,7 +30,7 @@
 
 #### 📜 My recent blog posts
 
-- [Handling Errors in Your HTTP Handlers](https://markphelps.me/2020/04/handling-errors-in-your-http-handlers/) (7 months ago)
+- [Handling Errors in Your HTTP Handlers](https://markphelps.me/2020/04/handling-errors-in-your-http-handlers/) (8 months ago)
 - [Profiling to Reduce Memory Allocations](https://markphelps.me/2019/11/profiling-to-reduce-memory-allocations/) (1 year ago)
 - [Speed Up Your Go Builds With Actions Cache](https://markphelps.me/2019/11/speed-up-your-go-builds-with-actions-cache/) (1 year ago)
 - [Migrating From Travis to GitHub Actions](https://markphelps.me/2019/09/migrating-from-travis-to-github-actions/) (1 year ago)
