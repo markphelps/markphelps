@@ -30,7 +30,7 @@
 
 #### 📜 My recent blog posts
 
-- [Reading 26 Books a Year](https://markphelps.me/2020/12/reading-26-books-a-year/) (1 week ago)
+- [Reading 26 Books a Year](https://markphelps.me/2020/12/reading-26-books-a-year/) (2 weeks ago)
 - [Handling Errors in Your HTTP Handlers](https://markphelps.me/2020/04/handling-errors-in-your-http-handlers/) (9 months ago)
 - [Profiling to Reduce Memory Allocations](https://markphelps.me/2019/11/profiling-to-reduce-memory-allocations/) (1 year ago)
 - [Speed Up Your Go Builds With Actions Cache](https://markphelps.me/2019/11/speed-up-your-go-builds-with-actions-cache/) (1 year ago)
