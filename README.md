@@ -6,19 +6,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [markphelps/apitest-public](https://github.com/markphelps/apitest-public) -  (1 day ago)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 week ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (3 weeks ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (2 months ago)
 - [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) - OCI Distribution Specification (3 months ago)
-- [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (5 months ago)
 
 #### 🌱 My latest projects
 
+- [markphelps/apitest-public](https://github.com/markphelps/apitest-public) - 
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt
 - [markphelps/retry](https://github.com/markphelps/retry) - (Another) retriable errors package for go
-- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types
 
 #### 🔭 Latest releases I've contributed to
 
