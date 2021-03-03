@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (1 week ago)
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (2 weeks ago)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 weeks ago)
 - [markphelps/apitest-public](https://github.com/markphelps/apitest-public) -  (1 month ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 month ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sirupsen/logrus](https://github.com/sirupsen/logrus) ([v1.8.0](https://github.com/sirupsen/logrus/releases/tag/v1.8.0), 1 week ago) - Structured, pluggable logging for Go.
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) ([v1.8.0](https://github.com/sirupsen/logrus/releases/tag/v1.8.0), 2 weeks ago) - Structured, pluggable logging for Go.
 - [markphelps/flipt](https://github.com/markphelps/flipt) ([v1.2.0](https://github.com/markphelps/flipt/releases/tag/v1.2.0), 2 weeks ago) - An open-source, on-prem feature flag solution
 - [deislabs/oras](https://github.com/deislabs/oras) ([v0.10.0](https://github.com/deislabs/oras/releases/tag/v0.10.0), 3 weeks ago) - OCI Registry As Storage
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) ([v0.3.0](https://github.com/markphelps/flipt-grpc-go/releases/tag/v0.3.0), 6 months ago) - GRPC Go client for Flipt
