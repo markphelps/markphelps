@@ -24,7 +24,7 @@
 
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) ([v1.8.0](https://github.com/sirupsen/logrus/releases/tag/v1.8.0), 2 weeks ago) - Structured, pluggable logging for Go.
 - [markphelps/flipt](https://github.com/markphelps/flipt) ([v1.2.0](https://github.com/markphelps/flipt/releases/tag/v1.2.0), 2 weeks ago) - An open-source, on-prem feature flag solution
-- [deislabs/oras](https://github.com/deislabs/oras) ([v0.10.0](https://github.com/deislabs/oras/releases/tag/v0.10.0), 3 weeks ago) - OCI Registry As Storage
+- [deislabs/oras](https://github.com/deislabs/oras) ([v0.10.0](https://github.com/deislabs/oras/releases/tag/v0.10.0), 4 weeks ago) - OCI Registry As Storage
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) ([v0.3.0](https://github.com/markphelps/flipt-grpc-go/releases/tag/v0.3.0), 6 months ago) - GRPC Go client for Flipt
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) ([v0.3.0](https://github.com/markphelps/flipt-grpc-ruby/releases/tag/v0.3.0), 6 months ago) - GRPC Ruby client for Flipt
 
