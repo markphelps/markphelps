@@ -38,11 +38,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [krames](https://github.com/krames)
 - [earthpyy](https://github.com/earthpyy)
 - [aaronraff](https://github.com/aaronraff)
 - [muety](https://github.com/muety)
 - [noahmatisoff](https://github.com/noahmatisoff)
-- [dbl0null](https://github.com/dbl0null)
 
 #### 📫 How to reach me
 
