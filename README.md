@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 day ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
 - [deislabs/oras](https://github.com/deislabs/oras) - OCI Registry As Storage (2 days ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (4 weeks ago)
 - [markphelps/apitest-public](https://github.com/markphelps/apitest-public) -  (1 month ago)
