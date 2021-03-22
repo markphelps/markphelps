@@ -38,11 +38,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [internetkingpin](https://github.com/internetkingpin)
 - [tkersey](https://github.com/tkersey)
 - [mattt](https://github.com/mattt)
 - [krames](https://github.com/krames)
 - [earthpyy](https://github.com/earthpyy)
-- [aaronraff](https://github.com/aaronraff)
 
 #### 📫 How to reach me
 
