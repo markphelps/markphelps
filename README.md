@@ -38,11 +38,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Bitcoin110](https://github.com/Bitcoin110)
 - [Bitcoin-NotAToy](https://github.com/Bitcoin-NotAToy)
 - [internetkingpin](https://github.com/internetkingpin)
 - [tkersey](https://github.com/tkersey)
 - [mattt](https://github.com/mattt)
-- [krames](https://github.com/krames)
 
 #### 📫 How to reach me
 
