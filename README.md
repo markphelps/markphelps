@@ -8,7 +8,7 @@
 
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (3 weeks ago)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (3 weeks ago)
-- [deislabs/oras](https://github.com/deislabs/oras) - OCI Registry As Storage (3 weeks ago)
+- [deislabs/oras](https://github.com/deislabs/oras) - OCI Registry As Storage (4 weeks ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (1 month ago)
 - [markphelps/apitest-public](https://github.com/markphelps/apitest-public) -  (2 months ago)
 
