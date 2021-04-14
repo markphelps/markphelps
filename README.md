@@ -38,11 +38,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [chaurasia-namrata](https://github.com/chaurasia-namrata)
 - [Bitcoin110](https://github.com/Bitcoin110)
 - [Bitcoin-NotAToy](https://github.com/Bitcoin-NotAToy)
 - [internetkingpin](https://github.com/internetkingpin)
 - [tkersey](https://github.com/tkersey)
-- [mattt](https://github.com/mattt)
 
 #### 📫 How to reach me
 
