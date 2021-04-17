@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (3 weeks ago)
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (4 weeks ago)
+- [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (4 weeks ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 month ago)
 - [deislabs/oras](https://github.com/deislabs/oras) - OCI Registry As Storage (1 month ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (1 month ago)
 - [markphelps/apitest-public](https://github.com/markphelps/apitest-public) -  (2 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [deislabs/oras](https://github.com/deislabs/oras) ([v0.11.1](https://github.com/deislabs/oras/releases/tag/v0.11.1), 4 weeks ago) - OCI Registry As Storage
+- [deislabs/oras](https://github.com/deislabs/oras) ([v0.11.1](https://github.com/deislabs/oras/releases/tag/v0.11.1), 1 month ago) - OCI Registry As Storage
 - [markphelps/flipt](https://github.com/markphelps/flipt) ([v1.2.1](https://github.com/markphelps/flipt/releases/tag/v1.2.1), 1 month ago) - An open-source, on-prem feature flag solution
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) ([v1.8.1](https://github.com/sirupsen/logrus/releases/tag/v1.8.1), 1 month ago) - Structured, pluggable logging for Go.
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) ([v0.3.0](https://github.com/markphelps/flipt-grpc-go/releases/tag/v0.3.0), 7 months ago) - GRPC Go client for Flipt
