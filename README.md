@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 day ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (1 month ago)
 - [deislabs/oras](https://github.com/deislabs/oras) - OCI Registry As Storage (1 month ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (2 months ago)
@@ -37,11 +37,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [PichaiPrakash](https://github.com/PichaiPrakash)
 - [chaurasia-namrata](https://github.com/chaurasia-namrata)
 - [Bitcoin110](https://github.com/Bitcoin110)
 - [Bitcoin-NotAToy](https://github.com/Bitcoin-NotAToy)
 - [internetkingpin](https://github.com/internetkingpin)
-- [tkersey](https://github.com/tkersey)
 
 #### 📫 How to reach me
 
