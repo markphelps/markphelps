@@ -22,6 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) ([v1.0.0-rc3](https://github.com/opencontainers/distribution-spec/releases/tag/v1.0.0-rc3), today) - OCI Distribution Specification
 - [deislabs/oras](https://github.com/deislabs/oras) ([v0.11.1](https://github.com/deislabs/oras/releases/tag/v0.11.1), 1 month ago) - OCI Registry As Storage
 - [markphelps/flipt](https://github.com/markphelps/flipt) ([v1.2.1](https://github.com/markphelps/flipt/releases/tag/v1.2.1), 1 month ago) - An open-source, on-prem feature flag solution
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) ([v0.3.0](https://github.com/markphelps/flipt-grpc-go/releases/tag/v0.3.0), 7 months ago) - GRPC Go client for Flipt
