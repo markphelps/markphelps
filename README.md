@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (3 days ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (1 month ago)
 - [deislabs/oras](https://github.com/deislabs/oras) - OCI Registry As Storage (1 month ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (2 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) ([v1.0.0-rc3](https://github.com/opencontainers/distribution-spec/releases/tag/v1.0.0-rc3), 6 days ago) - OCI Distribution Specification
+- [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) ([v1.0.0-rc3](https://github.com/opencontainers/distribution-spec/releases/tag/v1.0.0-rc3), 1 week ago) - OCI Distribution Specification
 - [deislabs/oras](https://github.com/deislabs/oras) ([v0.11.1](https://github.com/deislabs/oras/releases/tag/v0.11.1), 1 month ago) - OCI Registry As Storage
 - [markphelps/flipt](https://github.com/markphelps/flipt) ([v1.2.1](https://github.com/markphelps/flipt/releases/tag/v1.2.1), 1 month ago) - An open-source, on-prem feature flag solution
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) ([v0.3.0](https://github.com/markphelps/flipt-grpc-go/releases/tag/v0.3.0), 8 months ago) - GRPC Go client for Flipt
@@ -30,7 +30,7 @@
 
 #### 📜 My recent blog posts
 
-- [Reading 26 Books a Year](https://markphelps.me/2020/12/reading-26-books-a-year/) (3 months ago)
+- [Reading 26 Books a Year](https://markphelps.me/2020/12/reading-26-books-a-year/) (4 months ago)
 - [Handling Errors in Your HTTP Handlers](https://markphelps.me/2020/04/handling-errors-in-your-http-handlers/) (1 year ago)
 - [Profiling to Reduce Memory Allocations](https://markphelps.me/2019/11/profiling-to-reduce-memory-allocations/) (1 year ago)
 - [Speed Up Your Go Builds With Actions Cache](https://markphelps.me/2019/11/speed-up-your-go-builds-with-actions-cache/) (2 years ago)
