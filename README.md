@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (today)
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (5 days ago)
+- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (1 day ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (6 days ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (1 month ago)
 - [deislabs/oras](https://github.com/deislabs/oras) - OCI Registry As Storage (1 month ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (2 months ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [markphelps/optional](https://github.com/markphelps/optional) ([v0.9.0](https://github.com/markphelps/optional/releases/tag/v0.9.0), today) - Optional is a library of optional Go types
-- [carolynvs/magex](https://github.com/carolynvs/magex) ([v0.6.0](https://github.com/carolynvs/magex/releases/tag/v0.6.0), 1 day ago) - Helper methods for Magefiles
+- [markphelps/optional](https://github.com/markphelps/optional) ([v0.9.0](https://github.com/markphelps/optional/releases/tag/v0.9.0), 1 day ago) - Optional is a library of optional Go types
+- [carolynvs/magex](https://github.com/carolynvs/magex) ([v0.6.0](https://github.com/carolynvs/magex/releases/tag/v0.6.0), 2 days ago) - Helper methods for Magefiles
 - [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) ([v1.0.0-rc3](https://github.com/opencontainers/distribution-spec/releases/tag/v1.0.0-rc3), 1 week ago) - OCI Distribution Specification
 - [deislabs/oras](https://github.com/deislabs/oras) ([v0.11.1](https://github.com/deislabs/oras/releases/tag/v0.11.1), 1 month ago) - OCI Registry As Storage
 - [markphelps/flipt](https://github.com/markphelps/flipt) ([v1.2.1](https://github.com/markphelps/flipt/releases/tag/v1.2.1), 1 month ago) - An open-source, on-prem feature flag solution
