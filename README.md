@@ -17,8 +17,8 @@
 - [markphelps/apitest-public](https://github.com/markphelps/apitest-public) - 
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt
+- [markphelps/packages-test](https://github.com/markphelps/packages-test) - GPR Test
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt
-- [markphelps/retry](https://github.com/markphelps/retry) - (Another) retriable errors package for go
 
 #### 🔭 Latest releases I've contributed to
 
