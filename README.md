@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (3 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (4 days ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (3 weeks ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (2 months ago)
 - [deislabs/oras](https://github.com/deislabs/oras) - OCI Registry As Storage (2 months ago)
@@ -30,7 +30,7 @@
 
 #### 📜 My recent blog posts
 
-- [Reading 26 Books a Year](https://markphelps.me/2020/12/reading-26-books-a-year/) (4 months ago)
+- [Reading 26 Books a Year](https://markphelps.me/2020/12/reading-26-books-a-year/) (5 months ago)
 - [Handling Errors in Your HTTP Handlers](https://markphelps.me/2020/04/handling-errors-in-your-http-handlers/) (1 year ago)
 - [Profiling to Reduce Memory Allocations](https://markphelps.me/2019/11/profiling-to-reduce-memory-allocations/) (2 years ago)
 - [Speed Up Your Go Builds With Actions Cache](https://markphelps.me/2019/11/speed-up-your-go-builds-with-actions-cache/) (2 years ago)
