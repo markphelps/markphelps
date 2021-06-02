@@ -16,7 +16,7 @@
 
 #### ⭐️ Latest starred repos
 {{range recentStars 10}}
-- [{{.Name}}]({{.URL}}) ({{.Stargazers}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
 #### 📜 My recent blog posts
