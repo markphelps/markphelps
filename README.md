@@ -7,9 +7,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 week ago)
-- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (4 weeks ago)
+- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (1 month ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (2 months ago)
-- [deislabs/oras](https://github.com/deislabs/oras) - OCI Registry As Storage (2 months ago)
+- [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI (2 months ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (3 months ago)
 
 #### 🌱 My latest projects
@@ -20,13 +20,18 @@
 - [markphelps/packages-test](https://github.com/markphelps/packages-test) - GPR Test
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt
 
-#### 🔭 Latest releases I've contributed to
+#### ⭐️ Latest starred repos
 
-- [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) ([v1.0.0](https://github.com/opencontainers/distribution-spec/releases/tag/v1.0.0), 3 weeks ago) - OCI Distribution Specification
-- [markphelps/optional](https://github.com/markphelps/optional) ([v0.9.0](https://github.com/markphelps/optional/releases/tag/v0.9.0), 4 weeks ago) - Optional is a library of optional Go types
-- [carolynvs/magex](https://github.com/carolynvs/magex) ([v0.6.0](https://github.com/carolynvs/magex/releases/tag/v0.6.0), 4 weeks ago) - Helper methods for Magefiles
-- [deislabs/oras](https://github.com/deislabs/oras) ([v0.11.1](https://github.com/deislabs/oras/releases/tag/v0.11.1), 2 months ago) - OCI Registry As Storage
-- [markphelps/flipt](https://github.com/markphelps/flipt) ([v1.2.1](https://github.com/markphelps/flipt/releases/tag/v1.2.1), 2 months ago) - An open-source, on-prem feature flag solution
+- [markcheno/go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib (http://ta-lib.org) (2 days ago)
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python (3 days ago)
+- [MikeMcQuaid/TwitterDelete](https://github.com/MikeMcQuaid/TwitterDelete) - :skull: Delete your old, unpopular tweets. (6 days ago)
+- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor. (6 days ago)
+- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (1 week ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, you need only a file as your backend. 🎛️ (1 week ago)
+- [frathon/create-a-cryptocurrency-trading-bot-in-elixir](https://github.com/frathon/create-a-cryptocurrency-trading-bot-in-elixir) - Source code to generate the &#34;Create a cryptocurrency trading bot in Elixir&#34; book (2 weeks ago)
+- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods (2 weeks ago)
+- [mehanizm/airtable](https://github.com/mehanizm/airtable) - Simple golang airtable API wrapper (3 weeks ago)
+- [github/microbenies](https://github.com/github/microbenies) - Crowd sourced list of Microsoft benefits (3 weeks ago)
 
 #### 📜 My recent blog posts
 
