@@ -22,16 +22,16 @@
 
 #### ⭐️ Latest starred repos
 
-- [markcheno/go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib (http://ta-lib.org) (2 days ago)
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python (3 days ago)
-- [MikeMcQuaid/TwitterDelete](https://github.com/MikeMcQuaid/TwitterDelete) - :skull: Delete your old, unpopular tweets. (6 days ago)
-- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor. (6 days ago)
+- [markcheno/go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib (http://ta-lib.org) (3 days ago)
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python (4 days ago)
+- [MikeMcQuaid/TwitterDelete](https://github.com/MikeMcQuaid/TwitterDelete) - :skull: Delete your old, unpopular tweets. (1 week ago)
+- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor. (1 week ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (1 week ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, you need only a file as your backend. 🎛️ (1 week ago)
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, you need only a file as your backend. 🎛️ (2 weeks ago)
 - [frathon/create-a-cryptocurrency-trading-bot-in-elixir](https://github.com/frathon/create-a-cryptocurrency-trading-bot-in-elixir) - Source code to generate the &#34;Create a cryptocurrency trading bot in Elixir&#34; book (2 weeks ago)
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods (2 weeks ago)
+- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods (3 weeks ago)
 - [mehanizm/airtable](https://github.com/mehanizm/airtable) - Simple golang airtable API wrapper (3 weeks ago)
-- [github/microbenies](https://github.com/github/microbenies) - Crowd sourced list of Microsoft benefits (3 weeks ago)
+- [github/microbenies](https://github.com/github/microbenies) - Crowd sourced list of Microsoft benefits (4 weeks ago)
 
 #### 📜 My recent blog posts
 
