@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (today)
 - [markcheno/go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib (http://ta-lib.org) (1 week ago)
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python (1 week ago)
 - [MikeMcQuaid/TwitterDelete](https://github.com/MikeMcQuaid/TwitterDelete) - :skull: Delete your old, unpopular tweets. (1 week ago)
@@ -31,7 +32,6 @@
 - [frathon/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/frathon/hands-on-elixir-and-otp-cryptocurrency-trading-bot) - Source code to generate the &#34;Hands-on Elixir &amp; OTP: Cryptocurrency trading bot&#34; book (3 weeks ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods (3 weeks ago)
 - [mehanizm/airtable](https://github.com/mehanizm/airtable) - Simple golang airtable API wrapper (1 month ago)
-- [github/microbenies](https://github.com/github/microbenies) - Crowd sourced list of Microsoft benefits (1 month ago)
 
 #### 📜 My recent blog posts
 
