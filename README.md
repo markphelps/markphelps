@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 day ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (1 month ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (2 months ago)
-- [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI (2 months ago)
+- [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI (3 months ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (3 months ago)
 
 #### 🌱 My latest projects
@@ -22,9 +22,9 @@
 
 #### ⭐️ Latest starred repos
 
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (3 days ago)
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (4 days ago)
 - [markcheno/go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib (http://ta-lib.org) (1 week ago)
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python (1 week ago)
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python (2 weeks ago)
 - [MikeMcQuaid/TwitterDelete](https://github.com/MikeMcQuaid/TwitterDelete) - :skull: Delete your old, unpopular tweets. (2 weeks ago)
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor. (2 weeks ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (2 weeks ago)
