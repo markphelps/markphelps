@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 day ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (1 month ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (2 months ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI (3 months ago)
@@ -22,16 +22,16 @@
 
 #### ⭐️ Latest starred repos
 
-- [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes. (today)
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (4 days ago)
-- [markcheno/go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib (http://ta-lib.org) (1 week ago)
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool. (1 day ago)
+- [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes. (1 day ago)
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (5 days ago)
+- [markcheno/go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib (http://ta-lib.org) (2 weeks ago)
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python (2 weeks ago)
 - [MikeMcQuaid/TwitterDelete](https://github.com/MikeMcQuaid/TwitterDelete) - :skull: Delete your old, unpopular tweets. (2 weeks ago)
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor. (2 weeks ago)
-- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (2 weeks ago)
+- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (3 weeks ago)
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (3 weeks ago)
-- [frathon/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/frathon/hands-on-elixir-and-otp-cryptocurrency-trading-bot) - Source code to generate the &#34;Hands-on Elixir &amp; OTP: Cryptocurrency trading bot&#34; book (3 weeks ago)
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods (1 month ago)
+- [frathon/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/frathon/hands-on-elixir-and-otp-cryptocurrency-trading-bot) - Source code to generate the &#34;Hands-on Elixir &amp; OTP: Cryptocurrency trading bot&#34; book (4 weeks ago)
 
 #### 📜 My recent blog posts
 
