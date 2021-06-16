@@ -22,6 +22,8 @@
 
 #### ⭐️ Latest starred repos
 
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts (today)
+- [containers/image](https://github.com/containers/image) - Work with containers&#39; images (today)
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool. (2 days ago)
 - [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes. (2 days ago)
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (6 days ago)
@@ -30,8 +32,6 @@
 - [MikeMcQuaid/TwitterDelete](https://github.com/MikeMcQuaid/TwitterDelete) - :skull: Delete your old, unpopular tweets. (2 weeks ago)
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor. (2 weeks ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (3 weeks ago)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ (3 weeks ago)
-- [frathon/hands-on-elixir-and-otp-cryptocurrency-trading-bot](https://github.com/frathon/hands-on-elixir-and-otp-cryptocurrency-trading-bot) - Source code to generate the &#34;Hands-on Elixir &amp; OTP: Cryptocurrency trading bot&#34; book (4 weeks ago)
 
 #### 📜 My recent blog posts
 
