@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 day ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 days ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (1 month ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (2 months ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI (3 months ago)
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (3 months ago)
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### ⭐️ Latest starred repos
 
-- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts (today)
-- [containers/image](https://github.com/containers/image) - Work with containers&#39; images (today)
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool. (2 days ago)
-- [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes. (2 days ago)
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (6 days ago)
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts (1 day ago)
+- [containers/image](https://github.com/containers/image) - Work with containers&#39; images (1 day ago)
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool. (3 days ago)
+- [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes. (3 days ago)
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (1 week ago)
 - [markcheno/go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib (http://ta-lib.org) (2 weeks ago)
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python (2 weeks ago)
 - [MikeMcQuaid/TwitterDelete](https://github.com/MikeMcQuaid/TwitterDelete) - :skull: Delete your old, unpopular tweets. (2 weeks ago)
