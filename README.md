@@ -43,11 +43,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [byteshiva](https://github.com/byteshiva)
 - [wm3ndez](https://github.com/wm3ndez)
 - [PichaiPrakash](https://github.com/PichaiPrakash)
 - [chaurasia-namrata](https://github.com/chaurasia-namrata)
 - [Bitcoin110](https://github.com/Bitcoin110)
-- [Bitcoin-NotAToy](https://github.com/Bitcoin-NotAToy)
 
 #### 📫 How to reach me
 
