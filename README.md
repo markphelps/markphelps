@@ -22,7 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (3 days ago)
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (4 days ago)
 - [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts (1 week ago)
 - [containers/image](https://github.com/containers/image) - Work with containers&#39; images (1 week ago)
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool. (1 week ago)
@@ -30,8 +30,8 @@
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (2 weeks ago)
 - [markcheno/go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib (http://ta-lib.org) (3 weeks ago)
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python (3 weeks ago)
-- [MikeMcQuaid/TwitterDelete](https://github.com/MikeMcQuaid/TwitterDelete) - :skull: Delete your old, unpopular tweets. (3 weeks ago)
-- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor. (3 weeks ago)
+- [MikeMcQuaid/TwitterDelete](https://github.com/MikeMcQuaid/TwitterDelete) - :skull: Delete your old, unpopular tweets. (4 weeks ago)
+- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor. (4 weeks ago)
 
 #### 📜 My recent blog posts
 
