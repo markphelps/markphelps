@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (4 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (2 months ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (3 months ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI (3 months ago)
@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs (today)
 - [ulule/limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go. (1 day ago)
 - [AkihiroSuda/apt-transport-oci](https://github.com/AkihiroSuda/apt-transport-oci) - OCI transport plugin for apt-get (i.e., apt-get over ghcr.io) (3 days ago)
 - [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers (3 days ago)
@@ -31,7 +32,6 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool. (2 weeks ago)
 - [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes. (2 weeks ago)
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (3 weeks ago)
-- [markcheno/go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib (http://ta-lib.org) (1 month ago)
 
 #### 📜 My recent blog posts
 
