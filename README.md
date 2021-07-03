@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (3 days ago)
-- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (1 month ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (4 days ago)
+- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (2 months ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (3 months ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI (3 months ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (4 months ago)
@@ -22,8 +22,9 @@
 
 #### ⭐️ Latest starred repos
 
-- [AkihiroSuda/apt-transport-oci](https://github.com/AkihiroSuda/apt-transport-oci) - OCI transport plugin for apt-get (i.e., apt-get over ghcr.io) (2 days ago)
-- [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers (2 days ago)
+- [ulule/limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go. (1 day ago)
+- [AkihiroSuda/apt-transport-oci](https://github.com/AkihiroSuda/apt-transport-oci) - OCI transport plugin for apt-get (i.e., apt-get over ghcr.io) (3 days ago)
+- [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers (3 days ago)
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (1 week ago)
 - [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts (2 weeks ago)
 - [containers/image](https://github.com/containers/image) - Work with containers&#39; images (2 weeks ago)
@@ -31,7 +32,6 @@
 - [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes. (2 weeks ago)
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know (3 weeks ago)
 - [markcheno/go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib (http://ta-lib.org) (1 month ago)
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python (1 month ago)
 
 #### 📜 My recent blog posts
 
