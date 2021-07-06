@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (3 days ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (2 months ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (3 months ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI (3 months ago)
@@ -22,10 +22,10 @@
 
 #### ⭐️ Latest starred repos
 
-- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs (2 days ago)
-- [ulule/limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go. (3 days ago)
-- [AkihiroSuda/apt-transport-oci](https://github.com/AkihiroSuda/apt-transport-oci) - OCI transport plugin for apt-get (i.e., apt-get over ghcr.io) (5 days ago)
-- [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers (5 days ago)
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs (3 days ago)
+- [ulule/limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go. (4 days ago)
+- [AkihiroSuda/apt-transport-oci](https://github.com/AkihiroSuda/apt-transport-oci) - OCI transport plugin for apt-get (i.e., apt-get over ghcr.io) (6 days ago)
+- [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers (6 days ago)
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (2 weeks ago)
 - [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts (2 weeks ago)
 - [containers/image](https://github.com/containers/image) - Work with containers&#39; images (2 weeks ago)
