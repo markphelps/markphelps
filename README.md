@@ -22,7 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
-- [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. (1 day ago)
+- [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. (2 days ago)
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs (1 week ago)
 - [ulule/limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go. (1 week ago)
 - [AkihiroSuda/apt-transport-oci](https://github.com/AkihiroSuda/apt-transport-oci) - OCI transport plugin for apt-get (i.e., apt-get over ghcr.io) (1 week ago)
