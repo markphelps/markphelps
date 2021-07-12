@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, … (today)
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. (3 days ago)
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs (1 week ago)
 - [ulule/limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go. (1 week ago)
@@ -31,7 +32,6 @@
 - [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts (3 weeks ago)
 - [containers/image](https://github.com/containers/image) - Work with containers&#39; images (3 weeks ago)
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool. (4 weeks ago)
-- [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes. (4 weeks ago)
 
 #### 📜 My recent blog posts
 
