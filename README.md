@@ -8,7 +8,7 @@
 
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 weeks ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (2 months ago)
-- [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (3 months ago)
+- [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (4 months ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI (4 months ago)
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (5 months ago)
 
@@ -22,8 +22,8 @@
 
 #### ⭐️ Latest starred repos
 
-- [throttled/throttled](https://github.com/throttled/throttled) - Package throttled implements rate limiting access to resources such as HTTP endpoints. (5 days ago)
-- [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, … (5 days ago)
+- [throttled/throttled](https://github.com/throttled/throttled) - Package throttled implements rate limiting access to resources such as HTTP endpoints. (6 days ago)
+- [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, … (6 days ago)
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. (1 week ago)
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs (2 weeks ago)
 - [ulule/limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go. (2 weeks ago)
