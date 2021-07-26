@@ -22,8 +22,8 @@
 
 #### ⭐️ Latest starred repos
 
-- [throttled/throttled](https://github.com/throttled/throttled) - Package throttled implements rate limiting access to resources such as HTTP endpoints. (1 week ago)
-- [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, … (1 week ago)
+- [throttled/throttled](https://github.com/throttled/throttled) - Package throttled implements rate limiting access to resources such as HTTP endpoints. (2 weeks ago)
+- [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, … (2 weeks ago)
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. (2 weeks ago)
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs (3 weeks ago)
 - [ulule/limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go. (3 weeks ago)
