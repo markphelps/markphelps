@@ -45,9 +45,9 @@
 
 - [bargmannperryp](https://github.com/bargmannperryp)
 - [Novusvetus](https://github.com/Novusvetus)
-- [nimiology](https://github.com/nimiology)
 - [byteshiva](https://github.com/byteshiva)
 - [wm3ndez](https://github.com/wm3ndez)
+- [PichaiPrakash](https://github.com/PichaiPrakash)
 
 #### 📫 How to reach me
 
