@@ -22,8 +22,9 @@
 
 #### ⭐️ Latest starred repos
 
-- [verymeticulous/wikAPEdia](https://github.com/verymeticulous/wikAPEdia) - A central place for apes to learn about stonks. This is not financial advice. (1 day ago)
-- [sdcoffey/techan](https://github.com/sdcoffey/techan) - Technical Analysis Library for Golang (1 day ago)
+- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (1 day ago)
+- [verymeticulous/wikAPEdia](https://github.com/verymeticulous/wikAPEdia) - A central place for apes to learn about stonks. This is not financial advice. (2 days ago)
+- [sdcoffey/techan](https://github.com/sdcoffey/techan) - Technical Analysis Library for Golang (2 days ago)
 - [throttled/throttled](https://github.com/throttled/throttled) - Package throttled implements rate limiting access to resources such as HTTP endpoints. (2 weeks ago)
 - [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, … (2 weeks ago)
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. (2 weeks ago)
@@ -31,7 +32,6 @@
 - [ulule/limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go. (3 weeks ago)
 - [AkihiroSuda/apt-transport-oci](https://github.com/AkihiroSuda/apt-transport-oci) - OCI transport plugin for apt-get (i.e., apt-get over ghcr.io) (4 weeks ago)
 - [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers (4 weeks ago)
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (1 month ago)
 
 #### 📜 My recent blog posts
 
