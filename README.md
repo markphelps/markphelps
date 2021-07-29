@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang (today)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (1 day ago)
 - [verymeticulous/wikAPEdia](https://github.com/verymeticulous/wikAPEdia) - A central place for apes to learn about stonks. This is not financial advice. (2 days ago)
 - [sdcoffey/techan](https://github.com/sdcoffey/techan) - Technical Analysis Library for Golang (2 days ago)
@@ -31,7 +32,6 @@
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs (3 weeks ago)
 - [ulule/limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go. (3 weeks ago)
 - [AkihiroSuda/apt-transport-oci](https://github.com/AkihiroSuda/apt-transport-oci) - OCI transport plugin for apt-get (i.e., apt-get over ghcr.io) (4 weeks ago)
-- [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers (4 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -43,11 +43,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [hillaryjarrattr](https://github.com/hillaryjarrattr)
+- [cschneider4711](https://github.com/cschneider4711)
 - [bargmannperryp](https://github.com/bargmannperryp)
 - [Novusvetus](https://github.com/Novusvetus)
 - [byteshiva](https://github.com/byteshiva)
-- [wm3ndez](https://github.com/wm3ndez)
-- [PichaiPrakash](https://github.com/PichaiPrakash)
 
 #### 📫 How to reach me
 
