@@ -43,11 +43,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [obrienser](https://github.com/obrienser)
 - [hillaryjarrattr](https://github.com/hillaryjarrattr)
 - [cschneider4711](https://github.com/cschneider4711)
 - [bargmannperryp](https://github.com/bargmannperryp)
 - [Novusvetus](https://github.com/Novusvetus)
-- [byteshiva](https://github.com/byteshiva)
 
 #### 📫 How to reach me
 
