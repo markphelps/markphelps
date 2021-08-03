@@ -30,8 +30,8 @@
 - [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, … (3 weeks ago)
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. (3 weeks ago)
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs (1 month ago)
-- [ulule/limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go. (1 month ago)
-- [AkihiroSuda/apt-transport-oci](https://github.com/AkihiroSuda/apt-transport-oci) - OCI transport plugin for apt-get (i.e., apt-get over ghcr.io) (1 month ago)
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (1 month ago)
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts (1 month ago)
 
 #### 📜 My recent blog posts
 
