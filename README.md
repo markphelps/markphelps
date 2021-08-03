@@ -22,10 +22,10 @@
 
 #### ⭐️ Latest starred repos
 
-- [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang (4 days ago)
-- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (5 days ago)
-- [verymeticulous/wikAPEdia](https://github.com/verymeticulous/wikAPEdia) - A central place for apes to learn about stonks. This is not financial advice. (6 days ago)
-- [sdcoffey/techan](https://github.com/sdcoffey/techan) - Technical Analysis Library for Golang (6 days ago)
+- [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang (5 days ago)
+- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (6 days ago)
+- [verymeticulous/wikAPEdia](https://github.com/verymeticulous/wikAPEdia) - A central place for apes to learn about stonks. This is not financial advice. (1 week ago)
+- [sdcoffey/techan](https://github.com/sdcoffey/techan) - Technical Analysis Library for Golang (1 week ago)
 - [throttled/throttled](https://github.com/throttled/throttled) - Package throttled implements rate limiting access to resources such as HTTP endpoints. (3 weeks ago)
 - [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, … (3 weeks ago)
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. (3 weeks ago)
