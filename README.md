@@ -22,7 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
-- [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang (6 days ago)
+- [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang (1 week ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (1 week ago)
 - [verymeticulous/wikAPEdia](https://github.com/verymeticulous/wikAPEdia) - A central place for apes to learn about stonks. This is not financial advice. (1 week ago)
 - [sdcoffey/techan](https://github.com/sdcoffey/techan) - Technical Analysis Library for Golang (1 week ago)
