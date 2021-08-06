@@ -28,7 +28,7 @@
 - [sdcoffey/techan](https://github.com/sdcoffey/techan) - Technical Analysis Library for Golang (1 week ago)
 - [throttled/throttled](https://github.com/throttled/throttled) - Package throttled implements rate limiting access to resources such as HTTP endpoints. (3 weeks ago)
 - [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, … (3 weeks ago)
-- [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. (3 weeks ago)
+- [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. (4 weeks ago)
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs (1 month ago)
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (1 month ago)
 - [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts (1 month ago)
