@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [Clivern/Scalability](https://github.com/Clivern/Scalability) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems. (today)
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang (1 week ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (1 week ago)
 - [verymeticulous/wikAPEdia](https://github.com/verymeticulous/wikAPEdia) - A central place for apes to learn about stonks. This is not financial advice. (1 week ago)
@@ -31,7 +32,6 @@
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. (1 month ago)
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs (1 month ago)
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (1 month ago)
-- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts (1 month ago)
 
 #### 📜 My recent blog posts
 
