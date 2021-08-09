@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (3 months ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (4 months ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI (4 months ago)
@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL (today)
 - [Clivern/Scalability](https://github.com/Clivern/Scalability) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems. (1 day ago)
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang (1 week ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (1 week ago)
@@ -31,7 +32,6 @@
 - [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, … (4 weeks ago)
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. (1 month ago)
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs (1 month ago)
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (1 month ago)
 
 #### 📜 My recent blog posts
 
