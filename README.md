@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 day ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (3 months ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (4 months ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI (4 months ago)
