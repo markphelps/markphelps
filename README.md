@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (3 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (4 days ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (3 months ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (4 months ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI (5 months ago)
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (5 months ago)
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,10 +22,10 @@
 
 #### ⭐️ Latest starred repos
 
-- [rykov/paperboy](https://github.com/rykov/paperboy) - 💌💨 Email Campaign Delivery built with GoLang inspired by GoHugo (4 days ago)
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (4 days ago)
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (5 days ago)
-- [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL (6 days ago)
+- [rykov/paperboy](https://github.com/rykov/paperboy) - 💌💨 Email Campaign Delivery built with GoLang inspired by GoHugo (5 days ago)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (5 days ago)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (6 days ago)
+- [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL (1 week ago)
 - [Clivern/Scalability](https://github.com/Clivern/Scalability) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems. (1 week ago)
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang (2 weeks ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (2 weeks ago)
