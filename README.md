@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [go-rel/rel](https://github.com/go-rel/rel) - :gem: Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API (today)
 - [rykov/paperboy](https://github.com/rykov/paperboy) - 💌💨 Email Campaign Delivery built with GoLang inspired by GoHugo (6 days ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (6 days ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (1 week ago)
@@ -31,7 +32,6 @@
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (2 weeks ago)
 - [verymeticulous/wikAPEdia](https://github.com/verymeticulous/wikAPEdia) - A central place for apes to learn about stonks. This is not financial advice. (3 weeks ago)
 - [sdcoffey/techan](https://github.com/sdcoffey/techan) - Technical Analysis Library for Golang (3 weeks ago)
-- [throttled/throttled](https://github.com/throttled/throttled) - Package throttled implements rate limiting access to resources such as HTTP endpoints. (1 month ago)
 
 #### 📜 My recent blog posts
 
