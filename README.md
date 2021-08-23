@@ -45,9 +45,9 @@
 
 - [mostafa-asg](https://github.com/mostafa-asg)
 - [obrienser](https://github.com/obrienser)
-- [hillaryjarrattr](https://github.com/hillaryjarrattr)
 - [cschneider4711](https://github.com/cschneider4711)
-- [bargmannperryp](https://github.com/bargmannperryp)
+- [byteshiva](https://github.com/byteshiva)
+- [wm3ndez](https://github.com/wm3ndez)
 
 #### 📫 How to reach me
 
