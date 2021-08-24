@@ -1,7 +1,7 @@
 ### Hi, I'm Mark 👋
 
 * Creator of [Flipt](https://github.com/markphelps/flipt), an open-source, on-prem feature flag solution.
-* Senior Engineer on the GitHub Packages team, working on [GitHub Container Registry](https://github.blog/2020-09-01-introducing-github-container-registry/).
+* Staff Engineer @ GitHub. Previously helped build the [GitHub Container Registry](https://github.blog/2020-09-01-introducing-github-container-registry/).
 * Dad, Husband, Human
 
 #### 👷 Check out what I'm currently working on
