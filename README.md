@@ -22,16 +22,16 @@
 
 #### ⭐️ Latest starred repos
 
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc. (5 days ago)
+- [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. (1 day ago)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc. (6 days ago)
 - [go-rel/rel](https://github.com/go-rel/rel) - :gem: Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API (1 week ago)
 - [rykov/paperboy](https://github.com/rykov/paperboy) - 💌💨 Email Campaign Delivery built with GoLang inspired by GoHugo (2 weeks ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (2 weeks ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (2 weeks ago)
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL (2 weeks ago)
 - [Clivern/Scalability](https://github.com/Clivern/Scalability) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems. (2 weeks ago)
-- [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang (3 weeks ago)
+- [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang (4 weeks ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (4 weeks ago)
-- [verymeticulous/wikAPEdia](https://github.com/verymeticulous/wikAPEdia) - A central place for apes to learn about stonks. This is not financial advice. (4 weeks ago)
 
 #### 📜 My recent blog posts
 
