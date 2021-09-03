@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [imwally/pinboard](https://github.com/imwally/pinboard) - Pinboard golang package. (3 days ago)
+- [imwally/pinboard](https://github.com/imwally/pinboard) - Pinboard golang package. (4 days ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (2 weeks ago)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 weeks ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (4 months ago)
@@ -23,7 +23,7 @@
 #### ⭐️ Latest starred repos
 
 - [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. (1 week ago)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc. (1 week ago)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc. (2 weeks ago)
 - [go-rel/rel](https://github.com/go-rel/rel) - :gem: Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API (2 weeks ago)
 - [rykov/paperboy](https://github.com/rykov/paperboy) - 💌💨 Email Campaign Delivery built with GoLang inspired by GoHugo (3 weeks ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (3 weeks ago)
