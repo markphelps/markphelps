@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [imwally/pinboard](https://github.com/imwally/pinboard) - Pinboard golang package. (4 days ago)
+- [imwally/pinboard](https://github.com/imwally/pinboard) - Pinboard golang package. (5 days ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (2 weeks ago)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 weeks ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (4 months ago)
