@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [imwally/pinboard](https://github.com/imwally/pinboard) - Pinboard golang package. (5 days ago)
+- [imwally/pinboard](https://github.com/imwally/pinboard) - Pinboard golang package. (6 days ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (2 weeks ago)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 weeks ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (4 months ago)
@@ -29,7 +29,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (3 weeks ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (3 weeks ago)
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL (3 weeks ago)
-- [Clivern/Scalability](https://github.com/Clivern/Scalability) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems. (3 weeks ago)
+- [Clivern/Scalability](https://github.com/Clivern/Scalability) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems. (4 weeks ago)
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang (1 month ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (1 month ago)
 
