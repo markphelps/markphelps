@@ -43,11 +43,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [uhIgnacio](https://github.com/uhIgnacio)
 - [MatthiasScholzTW](https://github.com/MatthiasScholzTW)
 - [mostafa-asg](https://github.com/mostafa-asg)
 - [obrienser](https://github.com/obrienser)
 - [cschneider4711](https://github.com/cschneider4711)
-- [byteshiva](https://github.com/byteshiva)
 
 #### 📫 How to reach me
 
