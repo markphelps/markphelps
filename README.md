@@ -22,16 +22,16 @@
 
 #### ⭐️ Latest starred repos
 
-- [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. (1 week ago)
+- [stephen-netu/investment-and-trading-resources](https://github.com/stephen-netu/investment-and-trading-resources) -  (1 day ago)
+- [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. (2 weeks ago)
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (2 weeks ago)
 - [go-rel/rel](https://github.com/go-rel/rel) - :gem: Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API (3 weeks ago)
-- [rykov/paperboy](https://github.com/rykov/paperboy) - 💌💨 Email Campaign Delivery built with GoLang inspired by GoHugo (3 weeks ago)
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (3 weeks ago)
+- [rykov/paperboy](https://github.com/rykov/paperboy) - 💌💨 Email Campaign Delivery built with GoLang inspired by GoHugo (4 weeks ago)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (4 weeks ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (4 weeks ago)
-- [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL (4 weeks ago)
+- [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL (1 month ago)
 - [Clivern/Scalability](https://github.com/Clivern/Scalability) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems. (1 month ago)
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang (1 month ago)
-- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -43,11 +43,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [uhIgnacio](https://github.com/uhIgnacio)
 - [MatthiasScholzTW](https://github.com/MatthiasScholzTW)
 - [mostafa-asg](https://github.com/mostafa-asg)
 - [obrienser](https://github.com/obrienser)
 - [cschneider4711](https://github.com/cschneider4711)
+- [byteshiva](https://github.com/byteshiva)
 
 #### 📫 How to reach me
 
