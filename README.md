@@ -22,7 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
-- [stephen-netu/investment-and-trading-resources](https://github.com/stephen-netu/investment-and-trading-resources) -  (4 days ago)
+- [stephen-netu/investment-and-trading-resources](https://github.com/stephen-netu/investment-and-trading-resources) -  (5 days ago)
 - [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. (2 weeks ago)
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (3 weeks ago)
 - [go-rel/rel](https://github.com/go-rel/rel) - :gem: Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API (3 weeks ago)
