@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [mtlynch/mtlynch.io](https://github.com/mtlynch/mtlynch.io) - Source for mtlynch.io, a blog about technology and entrepreneurship. (today)
 - [stephen-netu/investment-and-trading-resources](https://github.com/stephen-netu/investment-and-trading-resources) -  (6 days ago)
 - [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. (2 weeks ago)
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (3 weeks ago)
@@ -31,7 +32,6 @@
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (1 month ago)
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL (1 month ago)
 - [Clivern/Scalability](https://github.com/Clivern/Scalability) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems. (1 month ago)
-- [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang (1 month ago)
 
 #### 📜 My recent blog posts
 
