@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
 - [imwally/pinboard](https://github.com/imwally/pinboard) - Pinboard golang package. (2 weeks ago)
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (4 weeks ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (4 weeks ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (4 months ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (5 months ago)
@@ -16,9 +16,9 @@
 
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt
-- [markphelps/packages-test](https://github.com/markphelps/packages-test) - GPR Test
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt
 - [markphelps/retry](https://github.com/markphelps/retry) - (Another) retriable errors package for go
+- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types
 
 #### ⭐️ Latest starred repos
 
