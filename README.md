@@ -22,6 +22,9 @@
 
 #### ⭐️ Latest starred repos
 
+- [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff. (today)
+- [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go (today)
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. (today)
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It&#39;s born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. (1 day ago)
 - [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go (3 days ago)
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (3 days ago)
@@ -29,9 +32,6 @@
 - [startupdeals/startupdeals](https://github.com/startupdeals/startupdeals) - A awesome collection of all available startup deals with terms, conditions and the deal source (1 week ago)
 - [mtlynch/mtlynch.io](https://github.com/mtlynch/mtlynch.io) - Source for mtlynch.io, a blog about technology and entrepreneurship. (1 week ago)
 - [stephen-netu/investment-and-trading-resources](https://github.com/stephen-netu/investment-and-trading-resources) -  (2 weeks ago)
-- [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. (4 weeks ago)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (1 month ago)
-- [go-rel/rel](https://github.com/go-rel/rel) - :gem: Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API (1 month ago)
 
 #### 📜 My recent blog posts
 
