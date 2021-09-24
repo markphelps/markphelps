@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability. (today)
 - [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff. (2 days ago)
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go (2 days ago)
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. (2 days ago)
@@ -31,7 +32,6 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (5 days ago)
 - [startupdeals/startupdeals](https://github.com/startupdeals/startupdeals) - A awesome collection of all available startup deals with terms, conditions and the deal source (1 week ago)
 - [mtlynch/mtlynch.io](https://github.com/mtlynch/mtlynch.io) - Source for mtlynch.io, a blog about technology and entrepreneurship. (1 week ago)
-- [stephen-netu/investment-and-trading-resources](https://github.com/stephen-netu/investment-and-trading-resources) -  (2 weeks ago)
 
 #### 📜 My recent blog posts
 
