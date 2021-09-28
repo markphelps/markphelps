@@ -22,15 +22,15 @@
 
 #### ⭐️ Latest starred repos
 
-- [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability. (3 days ago)
-- [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff. (5 days ago)
-- [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go (5 days ago)
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. (5 days ago)
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It&#39;s born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. (6 days ago)
+- [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability. (4 days ago)
+- [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff. (6 days ago)
+- [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go (6 days ago)
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. (6 days ago)
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It&#39;s born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. (1 week ago)
 - [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go (1 week ago)
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (1 week ago)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (1 week ago)
-- [startupdeals/startupdeals](https://github.com/startupdeals/startupdeals) - A awesome collection of all available startup deals with terms, conditions and the deal source (1 week ago)
+- [startupdeals/startupdeals](https://github.com/startupdeals/startupdeals) - A awesome collection of all available startup deals with terms, conditions and the deal source (2 weeks ago)
 - [mtlynch/mtlynch.io](https://github.com/mtlynch/mtlynch.io) - Source for mtlynch.io, a blog about technology and entrepreneurship. (2 weeks ago)
 
 #### 📜 My recent blog posts
