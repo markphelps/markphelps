@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (today)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 weeks ago)
 - [imwally/pinboard](https://github.com/imwally/pinboard) - Pinboard golang package. (1 month ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (1 month ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (5 months ago)
-- [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (6 months ago)
 
 #### 🌱 My latest projects
 
