@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms tools to emulate PaaS on cloud, Cloud IDEs and ADNs. (today)
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp (5 days ago)
 - [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang. (6 days ago)
 - [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability. (1 week ago)
@@ -31,7 +32,6 @@
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It&#39;s born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. (1 week ago)
 - [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go (2 weeks ago)
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (2 weeks ago)
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (2 weeks ago)
 
 #### 📜 My recent blog posts
 
