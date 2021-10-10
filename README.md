@@ -22,8 +22,8 @@
 
 #### ⭐️ Latest starred repos
 
-- [faiface/beep](https://github.com/faiface/beep) - A little package that brings sound to any Go application. Suitable for playback and audio-processing. (3 days ago)
-- [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs. (5 days ago)
+- [faiface/beep](https://github.com/faiface/beep) - A little package that brings sound to any Go application. Suitable for playback and audio-processing. (4 days ago)
+- [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs. (6 days ago)
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp (1 week ago)
 - [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang. (1 week ago)
 - [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability. (2 weeks ago)
@@ -31,7 +31,7 @@
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go (2 weeks ago)
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. (2 weeks ago)
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It&#39;s born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. (2 weeks ago)
-- [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go (2 weeks ago)
+- [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go (3 weeks ago)
 
 #### 📜 My recent blog posts
 
