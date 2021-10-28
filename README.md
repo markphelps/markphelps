@@ -35,11 +35,11 @@
 
 #### 📜 My recent blog posts
 
-- [Reading 26 Books a Year](https://markphelps.me/2020/12/reading-26-books-a-year/) (10 months ago)
-- [Handling Errors in Your HTTP Handlers](https://markphelps.me/2020/04/handling-errors-in-your-http-handlers/) (2 years ago)
-- [Profiling to Reduce Memory Allocations](https://markphelps.me/2019/11/profiling-to-reduce-memory-allocations/) (2 years ago)
-- [Speed Up Your Go Builds With Actions Cache](https://markphelps.me/2019/11/speed-up-your-go-builds-with-actions-cache/) (2 years ago)
-- [Migrating From Travis to GitHub Actions](https://markphelps.me/2019/09/migrating-from-travis-to-github-actions/) (2 years ago)
+- [Reading 26 Books a Year](https://markphelps.me/posts/reading-26-books-a-year/) (10 months ago)
+- [Handling Errors in Your HTTP Handlers](https://markphelps.me/posts/handling-errors-in-your-http-handlers/) (2 years ago)
+- [Profiling to Reduce Memory Allocations](https://markphelps.me/posts/profiling-to-reduce-memory-allocations/) (2 years ago)
+- [Speed Up Your Go Builds With Actions Cache](https://markphelps.me/posts/speed-up-your-go-builds-with-actions-cache/) (2 years ago)
+- [Migrating From Travis to GitHub Actions](https://markphelps.me/posts/migrating-from-travis-to-github-actions/) (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
