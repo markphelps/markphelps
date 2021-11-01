@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (today)
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings. (1 week ago)
 - [faiface/beep](https://github.com/faiface/beep) - A little package that brings sound to any Go application. Suitable for playback and audio-processing. (3 weeks ago)
 - [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs. (4 weeks ago)
@@ -31,7 +32,6 @@
 - [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff. (1 month ago)
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go (1 month ago)
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. (1 month ago)
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It&#39;s born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. (1 month ago)
 
 #### 📜 My recent blog posts
 
