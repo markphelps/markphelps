@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 day ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 days ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 month ago)
 - [imwally/pinboard](https://github.com/imwally/pinboard) - Pinboard golang package. (2 months ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (2 months ago)
@@ -22,8 +22,8 @@
 
 #### ⭐️ Latest starred repos
 
-- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (1 day ago)
-- [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (4 days ago)
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (2 days ago)
+- [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (5 days ago)
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings. (2 weeks ago)
 - [faiface/beep](https://github.com/faiface/beep) - A little package that brings sound to any Go application. Suitable for playback and audio-processing. (1 month ago)
 - [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs. (1 month ago)
@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (1 day ago)
+- [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (2 days ago)
 - [Reading 26 Books a Year](https://markphelps.me/posts/reading-26-books-a-year/) (10 months ago)
 - [Handling Errors in Your HTTP Handlers](https://markphelps.me/posts/handling-errors-in-your-http-handlers/) (2 years ago)
 - [Profiling to Reduce Memory Allocations](https://markphelps.me/posts/profiling-to-reduce-memory-allocations/) (2 years ago)
