@@ -23,7 +23,7 @@
 #### ⭐️ Latest starred repos
 
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (1 week ago)
-- [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (1 week ago)
+- [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (2 weeks ago)
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings. (3 weeks ago)
 - [faiface/beep](https://github.com/faiface/beep) - A little package that brings sound to any Go application. Suitable for playback and audio-processing. (1 month ago)
 - [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs. (1 month ago)
