@@ -35,11 +35,11 @@
 
 #### 📜 My recent blog posts
 
+- [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (today)
 - [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (1 week ago)
 - [Reading 26 Books a Year](https://markphelps.me/posts/reading-26-books-a-year/) (10 months ago)
 - [Handling Errors in Your HTTP Handlers](https://markphelps.me/posts/handling-errors-in-your-http-handlers/) (2 years ago)
 - [Profiling to Reduce Memory Allocations](https://markphelps.me/posts/profiling-to-reduce-memory-allocations/) (2 years ago)
-- [Speed Up Your Go Builds With Actions Cache](https://markphelps.me/posts/speed-up-your-go-builds-with-actions-cache/) (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
