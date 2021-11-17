@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (today)
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (1 week ago)
 - [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (2 weeks ago)
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings. (3 weeks ago)
@@ -31,7 +32,6 @@
 - [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang. (1 month ago)
 - [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability. (1 month ago)
 - [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff. (1 month ago)
-- [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go (1 month ago)
 
 #### 📜 My recent blog posts
 
