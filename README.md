@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 day ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 days ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 month ago)
 - [imwally/pinboard](https://github.com/imwally/pinboard) - Pinboard golang package. (2 months ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (3 months ago)
@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (1 day ago)
+- [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (2 days ago)
 - [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (1 week ago)
 - [Reading 26 Books a Year](https://markphelps.me/posts/reading-26-books-a-year/) (10 months ago)
 - [Handling Errors in Your HTTP Handlers](https://markphelps.me/posts/handling-errors-in-your-http-handlers/) (2 years ago)
