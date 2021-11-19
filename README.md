@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (3 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (4 days ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 month ago)
 - [imwally/pinboard](https://github.com/imwally/pinboard) - Pinboard golang package. (2 months ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (3 months ago)
@@ -22,12 +22,12 @@
 
 #### ⭐️ Latest starred repos
 
-- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (1 day ago)
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL (1 day ago)
-- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (1 day ago)
+- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (2 days ago)
+- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL (2 days ago)
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (2 days ago)
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (2 weeks ago)
 - [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (2 weeks ago)
-- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings. (3 weeks ago)
+- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings. (4 weeks ago)
 - [faiface/beep](https://github.com/faiface/beep) - A little package that brings sound to any Go application. Suitable for playback and audio-processing. (1 month ago)
 - [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs. (1 month ago)
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp (1 month ago)
@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (3 days ago)
+- [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (4 days ago)
 - [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (2 weeks ago)
 - [Reading 26 Books a Year](https://markphelps.me/posts/reading-26-books-a-year/) (10 months ago)
 - [Handling Errors in Your HTTP Handlers](https://markphelps.me/posts/handling-errors-in-your-http-handlers/) (2 years ago)
