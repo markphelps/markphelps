@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 week ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 month ago)
 - [imwally/pinboard](https://github.com/imwally/pinboard) - Pinboard golang package. (2 months ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (3 months ago)
-- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,16 +22,16 @@
 
 #### ⭐️ Latest starred repos
 
-- [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes (2 days ago)
-- [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A very basic REST service for JSON data - enough for prototyping and MVPs! (2 days ago)
-- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (6 days ago)
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL (6 days ago)
-- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (6 days ago)
+- [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation (1 day ago)
+- [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes (3 days ago)
+- [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A very basic REST service for JSON data - enough for prototyping and MVPs! (3 days ago)
+- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (1 week ago)
+- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL (1 week ago)
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (1 week ago)
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (2 weeks ago)
 - [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (3 weeks ago)
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings. (1 month ago)
 - [faiface/beep](https://github.com/faiface/beep) - A little package that brings sound to any Go application. Suitable for playback and audio-processing. (1 month ago)
-- [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs. (1 month ago)
 
 #### 📜 My recent blog posts
 
