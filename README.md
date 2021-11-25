@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds (today)
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation (2 days ago)
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes (4 days ago)
 - [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A very basic REST service for JSON data - enough for prototyping and MVPs! (4 days ago)
@@ -31,7 +32,6 @@
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (3 weeks ago)
 - [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (3 weeks ago)
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings. (1 month ago)
-- [faiface/beep](https://github.com/faiface/beep) - A little package that brings sound to any Go application. Suitable for playback and audio-processing. (1 month ago)
 
 #### 📜 My recent blog posts
 
