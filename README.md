@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (today)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 days ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (2 days ago)
-- [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (2 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 month ago)
 
