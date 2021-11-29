@@ -25,7 +25,7 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds (4 days ago)
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation (6 days ago)
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes (1 week ago)
-- [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A very basic REST service for JSON data - enough for prototyping and MVPs! (1 week ago)
+- [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A basic REST service for JSON data - enough for prototyping and MVPs! (1 week ago)
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (1 week ago)
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL (1 week ago)
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (1 week ago)
