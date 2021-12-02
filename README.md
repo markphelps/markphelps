@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (today)
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds (1 week ago)
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation (1 week ago)
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes (1 week ago)
@@ -31,7 +32,6 @@
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (2 weeks ago)
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (4 weeks ago)
 - [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (1 month ago)
-- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings. (1 month ago)
 
 #### 📜 My recent blog posts
 
