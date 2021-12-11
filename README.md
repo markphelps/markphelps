@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [eduardosasso/bullish](https://github.com/eduardosasso/bullish) - Stock market performance insights and trends in your inbox every day. (today)
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian (1 day ago)
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/. (1 day ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
@@ -31,7 +32,6 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds (2 weeks ago)
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation (2 weeks ago)
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes (2 weeks ago)
-- [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A basic REST service for JSON data - enough for prototyping and MVPs! (2 weeks ago)
 
 #### 📜 My recent blog posts
 
