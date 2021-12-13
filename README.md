@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (today)
 - [eduardosasso/bullish](https://github.com/eduardosasso/bullish) - Stock market performance insights and trends in your inbox every day. (2 days ago)
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian (3 days ago)
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/. (3 days ago)
@@ -31,7 +32,6 @@
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (1 week ago)
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds (2 weeks ago)
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation (2 weeks ago)
-- [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes (3 weeks ago)
 
 #### 📜 My recent blog posts
 
