@@ -35,11 +35,11 @@
 
 #### 📜 My recent blog posts
 
+- [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/) (today)
 - [Switching My gRPC Project to Use Buf](https://markphelps.me/posts/switching-my-grpc-project-to-use-buf/) (2 weeks ago)
 - [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (1 month ago)
 - [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (1 month ago)
 - [Reading 26 Books a Year](https://markphelps.me/posts/reading-26-books-a-year/) (11 months ago)
-- [Handling Errors in Your HTTP Handlers](https://markphelps.me/posts/handling-errors-in-your-http-handlers/) (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
