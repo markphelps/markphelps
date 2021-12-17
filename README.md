@@ -43,11 +43,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Eddie023](https://github.com/Eddie023)
 - [kmanley](https://github.com/kmanley)
 - [KristianFJones](https://github.com/KristianFJones)
 - [danielfsousa](https://github.com/danielfsousa)
 - [MatthiasScholzTW](https://github.com/MatthiasScholzTW)
-- [mostafa-asg](https://github.com/mostafa-asg)
 
 #### 📫 How to reach me
 
