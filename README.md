@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [kevinmcconnell/book-skeleton](https://github.com/kevinmcconnell/book-skeleton) - Skeleton project for an Asciidoctor-based e-book (today)
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application. (1 day ago)
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (3 days ago)
 - [lucor/paw](https://github.com/lucor/paw) - Paw is a cross platform application to manage your passwords and identities securely (6 days ago)
@@ -31,7 +32,6 @@
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian (1 week ago)
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/. (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles. (2 weeks ago)
 
 #### 📜 My recent blog posts
 
