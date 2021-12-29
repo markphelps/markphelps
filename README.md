@@ -22,13 +22,13 @@
 
 #### ⭐️ Latest starred repos
 
-- [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans (1 day ago)
-- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (4 days ago)
-- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes (4 days ago)
+- [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans (2 days ago)
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (5 days ago)
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes (5 days ago)
 - [kevinmcconnell/book-skeleton](https://github.com/kevinmcconnell/book-skeleton) - Skeleton project for an Asciidoctor-based e-book (1 week ago)
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application. (1 week ago)
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (1 week ago)
-- [lucor/paw](https://github.com/lucor/paw) - Paw is a cross platform application to manage your passwords and identities securely (1 week ago)
+- [lucor/paw](https://github.com/lucor/paw) - Paw is a cross platform application to manage your passwords and identities securely (2 weeks ago)
 - [nakabonne/gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics (2 weeks ago)
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (2 weeks ago)
 - [eduardosasso/bullish](https://github.com/eduardosasso/bullish) - Stock market performance insights and trends in your inbox every day. (2 weeks ago)
@@ -36,7 +36,7 @@
 #### 📜 My recent blog posts
 
 - [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/) (1 week ago)
-- [Switching My gRPC Project to Use Buf](https://markphelps.me/posts/switching-my-grpc-project-to-use-buf/) (3 weeks ago)
+- [Switching My gRPC Project to Use Buf](https://markphelps.me/posts/switching-my-grpc-project-to-use-buf/) (4 weeks ago)
 - [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (1 month ago)
 - [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (1 month ago)
 - [Reading 26 Books a Year](https://markphelps.me/posts/reading-26-books-a-year/) (1 year ago)
