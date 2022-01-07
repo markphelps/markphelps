@@ -1,8 +1,8 @@
 ### Hi, I'm Mark 👋
 
 * Creator of [Flipt](https://github.com/markphelps/flipt), an open-source, on-prem feature flag solution.
-* Senior Engineer on the GitHub Packages team, working on [GitHub Container Registry](https://github.blog/2020-09-01-introducing-github-container-registry/).
-* Dad, Husband, Human
+* Staff Engineer @github, working on [GitHub Codespaces](https://github.com/features/codespaces)
+* Dad x2, Husband, Human
 
 #### 👷 Check out what I'm currently working on
 
@@ -22,6 +22,9 @@
 
 #### ⭐️ Latest starred repos
 
+- [saturnavt/gojira](https://github.com/saturnavt/gojira) - Gojira is a cli tool to create clean architecture app for you including gin-gonic, bcrypt and jwt. (today)
+- [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) -  (today)
+- [gravityblast/fresh](https://github.com/gravityblast/fresh) - Build and (re)start go web apps after saving/creating/deleting source files. (today)
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (3 days ago)
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans (1 week ago)
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (2 weeks ago)
@@ -29,9 +32,6 @@
 - [kevinmcconnell/book-skeleton](https://github.com/kevinmcconnell/book-skeleton) - Skeleton project for an Asciidoctor-based e-book (2 weeks ago)
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application. (2 weeks ago)
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (2 weeks ago)
-- [lucor/paw](https://github.com/lucor/paw) - Paw is a cross platform application to manage your passwords and identities securely (3 weeks ago)
-- [nakabonne/gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics (3 weeks ago)
-- [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (3 weeks ago)
 
 #### 📜 My recent blog posts
 
