@@ -43,11 +43,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [BhautikChudasama](https://github.com/BhautikChudasama)
 - [sdil](https://github.com/sdil)
 - [Eddie023](https://github.com/Eddie023)
 - [kmanley](https://github.com/kmanley)
 - [KristianFJones](https://github.com/KristianFJones)
-- [danielfsousa](https://github.com/danielfsousa)
 
 #### 📫 How to reach me
 
