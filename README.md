@@ -22,6 +22,7 @@
 
 #### ⭐️ Latest starred repos
 
+- [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing (today)
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥 (1 day ago)
 - [saturnavt/gojira](https://github.com/saturnavt/gojira) - Gojira is a cli tool to create clean architecture app for you including gin-gonic, bcrypt and jwt. (4 days ago)
 - [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) -  (4 days ago)
@@ -31,7 +32,6 @@
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (2 weeks ago)
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes (2 weeks ago)
 - [kevinmcconnell/book-skeleton](https://github.com/kevinmcconnell/book-skeleton) - Skeleton project for an Asciidoctor-based e-book (3 weeks ago)
-- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application. (3 weeks ago)
 
 #### 📜 My recent blog posts
 
