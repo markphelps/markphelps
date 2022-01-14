@@ -22,6 +22,9 @@
 
 #### ⭐️ Latest starred repos
 
+- [mailgun/gubernator](https://github.com/mailgun/gubernator) - High Performance Rate Limiting MicroService and Library (today)
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems (today)
+- [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go. (today)
 - [zchee/nvim-go](https://github.com/zchee/nvim-go) - Go development plugin for Neovim written in pure Go (3 days ago)
 - [neovim/go-client](https://github.com/neovim/go-client) - Nvim Go client (3 days ago)
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing (3 days ago)
@@ -29,9 +32,6 @@
 - [saturnavt/gojira](https://github.com/saturnavt/gojira) - Gojira is a cli tool to create clean architecture app for you including gin-gonic, bcrypt and jwt. (1 week ago)
 - [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) -  (1 week ago)
 - [gravityblast/fresh](https://github.com/gravityblast/fresh) - Build and (re)start go web apps after saving/creating/deleting source files. (1 week ago)
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (1 week ago)
-- [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans (2 weeks ago)
-- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (3 weeks ago)
 
 #### 📜 My recent blog posts
 
