@@ -22,6 +22,8 @@
 
 #### ⭐️ Latest starred repos
 
+- [Automatt/obsidian-pinboard-sync](https://github.com/Automatt/obsidian-pinboard-sync) - Obsidian plugin to sync Pinboard.in links to Daily Notes (today)
+- [kzhovn/statusbar-pomo-obsidian](https://github.com/kzhovn/statusbar-pomo-obsidian) - A status bar pomodoro timer plugin for Obsidian. (today)
 - [mailgun/gubernator](https://github.com/mailgun/gubernator) - High Performance Rate Limiting MicroService and Library (1 day ago)
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems (1 day ago)
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go. (1 day ago)
@@ -30,16 +32,14 @@
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing (4 days ago)
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥 (5 days ago)
 - [saturnavt/gojira](https://github.com/saturnavt/gojira) - Gojira is a cli tool to create clean architecture app for you including gin-gonic, bcrypt and jwt. (1 week ago)
-- [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) -  (1 week ago)
-- [gravityblast/fresh](https://github.com/gravityblast/fresh) - Build and (re)start go web apps after saving/creating/deleting source files. (1 week ago)
 
 #### 📜 My recent blog posts
 
+- [Dependency Injection Explained](https://markphelps.me/posts/dependency-injection-explained/) (today)
 - [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/) (1 month ago)
 - [Switching My gRPC Project to Use Buf](https://markphelps.me/posts/switching-my-grpc-project-to-use-buf/) (1 month ago)
 - [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (2 months ago)
 - [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (2 months ago)
-- [Reading 26 Books a Year](https://markphelps.me/posts/reading-26-books-a-year/) (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
