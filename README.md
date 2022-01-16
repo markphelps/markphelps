@@ -22,6 +22,8 @@
 
 #### ⭐️ Latest starred repos
 
+- [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️ (today)
+- [nedbat/cog](https://github.com/nedbat/cog) - Cog: A content generator for executing Python snippets in source files. (today)
 - [Automatt/obsidian-pinboard-sync](https://github.com/Automatt/obsidian-pinboard-sync) - Obsidian plugin to sync Pinboard.in links to Daily Notes (1 day ago)
 - [kzhovn/statusbar-pomo-obsidian](https://github.com/kzhovn/statusbar-pomo-obsidian) - A status bar pomodoro timer plugin for Obsidian. (1 day ago)
 - [mailgun/gubernator](https://github.com/mailgun/gubernator) - High Performance Rate Limiting MicroService and Library (2 days ago)
@@ -30,8 +32,6 @@
 - [zchee/nvim-go](https://github.com/zchee/nvim-go) - Go development plugin for Neovim written in pure Go (5 days ago)
 - [neovim/go-client](https://github.com/neovim/go-client) - Nvim Go client (5 days ago)
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing (5 days ago)
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥 (6 days ago)
-- [saturnavt/gojira](https://github.com/saturnavt/gojira) - Gojira is a cli tool to create clean architecture app for you including gin-gonic, bcrypt and jwt. (1 week ago)
 
 #### 📜 My recent blog posts
 
