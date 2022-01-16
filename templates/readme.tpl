@@ -14,19 +14,9 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### ⭐️ Latest starred repos
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-
 #### 📜 My recent blog posts
 {{range rss "https://markphelps.me/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
-#### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
 {{- end}}
 
 #### 📫 How to reach me
@@ -34,4 +24,5 @@
 - Twitter: https://twitter.com/mark_a_phelps
 - Blog: https://markphelps.me/
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me&url=https%3A%2F%2Ftwitter.com%2Fmark_a_phelps)](https://twitter.com/mark_a_phelps)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/markphelps?logo=github&style=social)(https://github.com/sponsors/markphelps)
