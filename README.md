@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pyroscope-io/docs](https://github.com/pyroscope-io/docs) - Source code for pyroscope.io (today)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 day ago)
+- [pyroscope-io/docs](https://github.com/pyroscope-io/docs) - Source code for pyroscope.io (1 day ago)
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (2 months ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (2 months ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 months ago)
