@@ -1,12 +1,15 @@
 ### Hi, I'm Mark 👋
 
+[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me&url=https%3A%2F%2Ftwitter.com%2Fmark_a_phelps)](https://twitter.com/mark_a_phelps)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/markphelps?logo=github&style=social)](https://github.com/sponsors/markphelps)
+
 * Creator of [Flipt](https://github.com/markphelps/flipt), an open-source, on-prem feature flag solution.
 * Staff Engineer @github, working on [GitHub Codespaces](https://github.com/features/codespaces)
 * Dad x2, Husband, Human
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (5 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 week ago)
 - [pyroscope-io/docs](https://github.com/pyroscope-io/docs) - Source code for pyroscope.io (1 week ago)
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (2 months ago)
@@ -32,6 +35,3 @@
 
 - Twitter: https://twitter.com/mark_a_phelps
 - Blog: https://markphelps.me/
-
-[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me&url=https%3A%2F%2Ftwitter.com%2Fmark_a_phelps)](https://twitter.com/mark_a_phelps)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/markphelps?logo=github&style=social)](https://github.com/sponsors/markphelps)
