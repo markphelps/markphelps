@@ -1,5 +1,8 @@
 ### Hi, I'm Mark 👋
 
+[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me&url=https%3A%2F%2Ftwitter.com%2Fmark_a_phelps)](https://twitter.com/mark_a_phelps)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/markphelps?logo=github&style=social)](https://github.com/sponsors/markphelps)
+
 * Creator of [Flipt](https://github.com/markphelps/flipt), an open-source, on-prem feature flag solution.
 * Staff Engineer @github, working on [GitHub Codespaces](https://github.com/features/codespaces)
 * Dad x2, Husband, Human
@@ -23,6 +26,3 @@
 
 - Twitter: https://twitter.com/mark_a_phelps
 - Blog: https://markphelps.me/
-
-[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me&url=https%3A%2F%2Ftwitter.com%2Fmark_a_phelps)](https://twitter.com/mark_a_phelps)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/markphelps?logo=github&style=social)](https://github.com/sponsors/markphelps)
