@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 day ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 week ago)
 - [pyroscope-io/docs](https://github.com/pyroscope-io/docs) - Source code for pyroscope.io (1 week ago)
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (2 months ago)
