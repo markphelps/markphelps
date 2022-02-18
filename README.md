@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [samsonmking/epaper.js](https://github.com/samsonmking/epaper.js) - Node.js library for easily creating an ePaper display on a Raspberry PI using HTML and Javascript. (1 day ago)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (3 days ago)
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (4 days ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (4 days ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (2 weeks ago)
-- [pyroscope-io/docs](https://github.com/pyroscope-io/docs) - Source code for pyroscope.io (2 weeks ago)
 
 #### 🌱 My latest projects
 
