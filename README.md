@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
-- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (5 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 day ago)
+- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (6 days ago)
 - [samsonmking/epaper.js](https://github.com/samsonmking/epaper.js) - Node.js library for easily creating an ePaper display on a Raspberry PI using HTML and Javascript. (1 week ago)
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (1 week ago)
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt (1 week ago)
