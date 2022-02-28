@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/gh-codespace-local](https://github.com/markphelps/gh-codespace-local) -  (2 days ago)
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (3 days ago)
+- [markphelps/gh-codespace-local](https://github.com/markphelps/gh-codespace-local) -  (3 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (4 days ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 week ago)
 - [samsonmking/epaper.js](https://github.com/samsonmking/epaper.js) - Node.js library for easily creating an ePaper display on a Raspberry PI using HTML and Javascript. (1 week ago)
-- [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (1 week ago)
+- [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (2 weeks ago)
 
 #### 🌱 My latest projects
 
