@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/gh-codespace-local](https://github.com/markphelps/gh-codespace-local) -  (3 days ago)
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (4 days ago)
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (4 days ago)
+- [markphelps/gh-codespace-local](https://github.com/markphelps/gh-codespace-local) -  (4 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (5 days ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 week ago)
 - [samsonmking/epaper.js](https://github.com/samsonmking/epaper.js) - Node.js library for easily creating an ePaper display on a Raspberry PI using HTML and Javascript. (1 week ago)
-- [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -27,7 +27,7 @@
 
 - [Dependency Injection Explained](https://markphelps.me/posts/dependency-injection-explained/) (1 month ago)
 - [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/) (2 months ago)
-- [Switching My gRPC Project to Use Buf](https://markphelps.me/posts/switching-my-grpc-project-to-use-buf/) (2 months ago)
+- [Switching My gRPC Project to Use Buf](https://markphelps.me/posts/switching-my-grpc-project-to-use-buf/) (3 months ago)
 - [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (3 months ago)
 - [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (3 months ago)
 
