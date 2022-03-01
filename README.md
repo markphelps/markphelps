@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (4 days ago)
-- [markphelps/gh-codespace-local](https://github.com/markphelps/gh-codespace-local) -  (4 days ago)
+- [markphelps/gh-codespace-local](https://github.com/markphelps/gh-codespace-local) -  (today)
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (today)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (5 days ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 week ago)
 - [samsonmking/epaper.js](https://github.com/samsonmking/epaper.js) - Node.js library for easily creating an ePaper display on a Raspberry PI using HTML and Javascript. (1 week ago)
