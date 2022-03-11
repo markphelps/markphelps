@@ -9,19 +9,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/gh-codespace-local](https://github.com/markphelps/gh-codespace-local) -  (1 day ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 week ago)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 weeks ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (2 weeks ago)
 - [samsonmking/epaper.js](https://github.com/samsonmking/epaper.js) - Node.js library for easily creating an ePaper display on a Raspberry PI using HTML and Javascript. (3 weeks ago)
+- [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt (3 weeks ago)
 
 #### 🌱 My latest projects
 
-- [markphelps/gh-codespace-local](https://github.com/markphelps/gh-codespace-local) - 
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt
 - [markphelps/retry](https://github.com/markphelps/retry) - (Another) retriable errors package for go
+- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types
 
 #### 📜 My recent blog posts
 
