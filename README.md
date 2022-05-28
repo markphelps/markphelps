@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (5 days ago)
-- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (6 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (6 days ago)
+- [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (1 week ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 week ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 month ago)
 - [samsonmking/epaper.js](https://github.com/samsonmking/epaper.js) - Node.js library for easily creating an ePaper display on a Raspberry PI using HTML and Javascript. (3 months ago)
