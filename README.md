@@ -9,19 +9,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [markphelps/go-vanity](https://github.com/markphelps/go-vanity) - Go Vanity URLs (today)
+- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (today)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 week ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 weeks ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (2 weeks ago)
-- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 month ago)
-- [samsonmking/epaper.js](https://github.com/samsonmking/epaper.js) - Node.js library for easily creating an ePaper display on a Raspberry PI using HTML and Javascript. (3 months ago)
 
 #### 🌱 My latest projects
 
+- [markphelps/go-vanity](https://github.com/markphelps/go-vanity) - Go Vanity URLs
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt
 - [markphelps/retry](https://github.com/markphelps/retry) - (Another) retriable errors package for go
-- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types
 
 #### 📜 My recent blog posts
 
