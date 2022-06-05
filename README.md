@@ -9,9 +9,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/go-vanity](https://github.com/markphelps/go-vanity) - Go Vanity URLs (today)
-- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (today)
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 week ago)
+- [markphelps/go-vanity](https://github.com/markphelps/go-vanity) - Go Vanity URLs (1 day ago)
+- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (1 day ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 weeks ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 weeks ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (2 weeks ago)
 
