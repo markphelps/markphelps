@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/go-vanity](https://github.com/markphelps/go-vanity) - Go Vanity URLs (1 day ago)
+- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (1 day ago)
 - [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (1 day ago)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 weeks ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 weeks ago)
@@ -17,11 +17,11 @@
 
 #### 🌱 My latest projects
 
-- [markphelps/go-vanity](https://github.com/markphelps/go-vanity) - Go Vanity URLs
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt
 - [markphelps/retry](https://github.com/markphelps/retry) - (Another) retriable errors package for go
+- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types
 
 #### 📜 My recent blog posts
 
