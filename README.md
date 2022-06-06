@@ -9,9 +9,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (2 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
 - [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (2 days ago)
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 weeks ago)
+- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (2 days ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 weeks ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (2 weeks ago)
 
