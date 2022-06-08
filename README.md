@@ -12,8 +12,8 @@
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (2 days ago)
 - [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (4 days ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (4 days ago)
+- [cli/gh-extension-precompile](https://github.com/cli/gh-extension-precompile) - Action for publishing binary GitHub CLI extensions (1 week ago)
 - [open-feature/community](https://github.com/open-feature/community) - OpenFeature project community and governance (2 weeks ago)
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (3 weeks ago)
 
 #### 🌱 My latest projects
 
