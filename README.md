@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 day ago)
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 day ago)
 - [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (5 days ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (5 days ago)
 - [cli/gh-extension-precompile](https://github.com/cli/gh-extension-precompile) - Action for publishing binary GitHub CLI extensions (1 week ago)
