@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (4 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (6 days ago)
 - [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (1 week ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (1 week ago)
