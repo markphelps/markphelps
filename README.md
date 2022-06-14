@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (3 days ago)
-- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (5 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (4 days ago)
+- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (6 days ago)
 - [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (1 week ago)
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (1 week ago)
 - [cli/gh-extension-precompile](https://github.com/cli/gh-extension-precompile) - Action for publishing binary GitHub CLI extensions (1 week ago)
@@ -25,8 +25,8 @@
 
 #### 📜 My recent blog posts
 
-- [Dependency Injection Explained](https://markphelps.me/posts/dependency-injection-explained/) (4 months ago)
-- [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/) (5 months ago)
+- [Dependency Injection Explained](https://markphelps.me/posts/dependency-injection-explained/) (5 months ago)
+- [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/) (6 months ago)
 - [Switching My gRPC Project to Use Buf](https://markphelps.me/posts/switching-my-grpc-project-to-use-buf/) (6 months ago)
 - [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (7 months ago)
 - [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (7 months ago)
