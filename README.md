@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [flipt-io/docs](https://github.com/flipt-io/docs) -  (today)
 - [reposaur/docs](https://github.com/reposaur/docs) -  (1 day ago)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (5 days ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 week ago)
 - [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (2 weeks ago)
-- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (2 weeks ago)
 
 #### 🌱 My latest projects
 
