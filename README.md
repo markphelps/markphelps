@@ -9,10 +9,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/docs](https://github.com/flipt-io/docs) -  (1 day ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) -  (today)
+- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (today)
 - [reposaur/docs](https://github.com/reposaur/docs) -  (2 days ago)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (6 days ago)
-- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 week ago)
 - [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (2 weeks ago)
 
 #### 🌱 My latest projects
