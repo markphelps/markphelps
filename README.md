@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/docs](https://github.com/flipt-io/docs) -  (1 day ago)
+- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (today)
+- [flipt-io/docs](https://github.com/flipt-io/docs) -  (today)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (today)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (1 day ago)
 - [reposaur/docs](https://github.com/reposaur/docs) -  (3 days ago)
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution (1 week ago)
-- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
