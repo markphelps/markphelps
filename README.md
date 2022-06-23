@@ -9,19 +9,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [markphelps/open-sauced-goals](https://github.com/markphelps/open-sauced-goals) -  (today)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open source, self-hosted feature flag solution (today)
 - [flipt-io/docs](https://github.com/flipt-io/docs) -  (1 day ago)
 - [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (2 days ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (3 days ago)
-- [reposaur/docs](https://github.com/reposaur/docs) -  (5 days ago)
 
 #### 🌱 My latest projects
 
+- [markphelps/open-sauced-goals](https://github.com/markphelps/open-sauced-goals) - 
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage
 - [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt
 - [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt
 - [markphelps/retry](https://github.com/markphelps/retry) - (Another) retriable errors package for go
-- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types
 
 #### 📜 My recent blog posts
 
