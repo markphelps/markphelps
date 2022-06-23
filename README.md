@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open source, self-hosted feature flag solution (today)
 - [flipt-io/docs](https://github.com/flipt-io/docs) -  (1 day ago)
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open source, self-hosted feature flag solution (1 day ago)
 - [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (2 days ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (3 days ago)
 - [reposaur/docs](https://github.com/reposaur/docs) -  (5 days ago)
