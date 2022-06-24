@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/open-sauced-goals](https://github.com/markphelps/open-sauced-goals) -  (today)
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open source, self-hosted feature flag solution (today)
-- [flipt-io/docs](https://github.com/flipt-io/docs) -  (1 day ago)
-- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (2 days ago)
-- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (3 days ago)
+- [markphelps/open-sauced-goals](https://github.com/markphelps/open-sauced-goals) -  (1 day ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open source, self-hosted feature flag solution (1 day ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) -  (2 days ago)
+- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (3 days ago)
+- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (4 days ago)
 
 #### 🌱 My latest projects
 
