@@ -9,19 +9,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [flipt-io/flipt-grpc-go](https://github.com/flipt-io/flipt-grpc-go) - GRPC Go client for Flipt (today)
+- [flipt-io/flipt-grpc-ruby](https://github.com/flipt-io/flipt-grpc-ruby) - GRPC Ruby client for Flipt (today)
+- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (today)
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open source, self-hosted feature flag solution (2 days ago)
 - [flipt-io/docs](https://github.com/flipt-io/docs) -  (3 days ago)
-- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (4 days ago)
-- [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (5 days ago)
-- [reposaur/docs](https://github.com/reposaur/docs) -  (1 week ago)
 
 #### 🌱 My latest projects
 
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage
-- [markphelps/flipt-grpc-ruby](https://github.com/markphelps/flipt-grpc-ruby) - GRPC Ruby client for Flipt
-- [markphelps/flipt-grpc-go](https://github.com/markphelps/flipt-grpc-go) - GRPC Go client for Flipt
 - [markphelps/retry](https://github.com/markphelps/retry) - (Another) retriable errors package for go
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open source, self-hosted feature flag solution
+- [markphelps/go-trace](https://github.com/markphelps/go-trace) - Implementing a path tracer in Go
 
 #### 📜 My recent blog posts
 
