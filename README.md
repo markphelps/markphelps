@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open source, self-hosted feature flag solution (today)
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (2 days ago)
-- [flipt-io/docs](https://github.com/flipt-io/docs) -  (4 days ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) -  (4 days ago)
-- [flipt-io/flipt-grpc-ruby](https://github.com/flipt-io/flipt-grpc-ruby) - GRPC Ruby client for Flipt (5 days ago)
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open source, self-hosted feature flag solution (1 day ago)
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (3 days ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) -  (5 days ago)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) -  (5 days ago)
+- [flipt-io/flipt-grpc-ruby](https://github.com/flipt-io/flipt-grpc-ruby) - GRPC Ruby client for Flipt (6 days ago)
 
 #### 🌱 My latest projects
 
