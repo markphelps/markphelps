@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (5 days ago)
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open source, self-hosted feature flag solution (6 days ago)
 - [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for Flipt (1 week ago)
 - [flipt-io/docs](https://github.com/flipt-io/docs) -  (2 weeks ago)
 - [flipt-io/flipt-grpc-ruby](https://github.com/flipt-io/flipt-grpc-ruby) - GRPC Ruby client for Flipt (3 weeks ago)
@@ -20,8 +20,8 @@
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage
 - [markphelps/retry](https://github.com/markphelps/retry) - (Another) retriable errors package for go
 - [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open source, self-hosted feature flag solution
 - [markphelps/go-trace](https://github.com/markphelps/go-trace) - Implementing a path tracer in Go
+- [markphelps/tictac](https://github.com/markphelps/tictac) - Un-winnable game of Tic Tac Toe using MinMax
 
 #### 📜 My recent blog posts
 
