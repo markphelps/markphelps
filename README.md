@@ -9,9 +9,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (5 days ago)
-- [flipt-io/docs](https://github.com/flipt-io/docs) -  (2 weeks ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for Flipt (2 weeks ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (6 days ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) -  (3 weeks ago)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for Flipt (3 weeks ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 month ago)
 - [flipt-io/flipt-grpc-ruby](https://github.com/flipt-io/flipt-grpc-ruby) - GRPC Ruby client for Flipt (1 month ago)
 
