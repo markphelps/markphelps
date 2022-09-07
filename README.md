@@ -9,9 +9,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for Flipt (today)
-- [flipt-io/docs](https://github.com/flipt-io/docs) -  (3 days ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (5 days ago)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for Flipt (1 day ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) -  (4 days ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 month ago)
 - [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (2 months ago)
 
