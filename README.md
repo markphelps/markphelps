@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 days ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for Flipt (4 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (3 days ago)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for Flipt (5 days ago)
 - [flipt-io/docs](https://github.com/flipt-io/docs) -  (1 week ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (2 months ago)
 - [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (2 months ago)
@@ -28,7 +28,7 @@
 - [Dependency Injection Explained](https://markphelps.me/posts/dependency-injection-explained/) (7 months ago)
 - [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/) (8 months ago)
 - [Switching My gRPC Project to Use Buf](https://markphelps.me/posts/switching-my-grpc-project-to-use-buf/) (9 months ago)
-- [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (9 months ago)
+- [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (10 months ago)
 - [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (10 months ago)
 
 #### 📫 How to reach me
