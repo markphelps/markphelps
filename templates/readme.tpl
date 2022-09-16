@@ -26,4 +26,3 @@
 
 - Twitter: https://twitter.com/mark_a_phelps
 - Blog: https://markphelps.me/
-- PGP: `8C2F 565F D6B3 846C 0128 C20A 4D01 4921 FAF5 56E3`
