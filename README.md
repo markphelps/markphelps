@@ -9,10 +9,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (3 days ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) -  (today)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for Flipt (today)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
 - [flipt-io/openfeature-provider-go](https://github.com/flipt-io/openfeature-provider-go) - WIP implementation of an OpenFeature provider for Flipt (GRPC/HTTP) (3 days ago)
-- [flipt-io/docs](https://github.com/flipt-io/docs) -  (1 week ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for Flipt (3 weeks ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (3 months ago)
 
 #### 🌱 My latest projects
