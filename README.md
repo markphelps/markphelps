@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [flipt-io/flipt-grpc-go](https://github.com/flipt-io/flipt-grpc-go) - GRPC Go client for Flipt (today)
+- [flipt-io/flipt-openfeature-provider-go](https://github.com/flipt-io/flipt-openfeature-provider-go) - OpenFeature provider for Flipt (GRPC/HTTP) (today)
+- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (today)
+- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (today)
 - [flipt-io/openfeature-testbed](https://github.com/flipt-io/openfeature-testbed) - Testbed for Flipt OpenFeature providers (1 day ago)
-- [flipt-io/openfeature-provider-go](https://github.com/flipt-io/openfeature-provider-go) - WIP implementation of an OpenFeature provider for Flipt (GRPC/HTTP) (1 day ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 days ago)
-- [flipt-io/docs](https://github.com/flipt-io/docs) -  (3 days ago)
-- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (3 days ago)
 
 #### 🌱 My latest projects
 
