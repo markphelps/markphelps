@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/openfeature-provider-go](https://github.com/flipt-io/openfeature-provider-go) - WIP implementation of an OpenFeature provider for Flipt (GRPC/HTTP) (today)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
-- [flipt-io/docs](https://github.com/flipt-io/docs) -  (2 days ago)
-- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (2 days ago)
-- [flipt-io/flipt-grpc-ruby](https://github.com/flipt-io/flipt-grpc-ruby) - GRPC Ruby client for Flipt (5 days ago)
+- [flipt-io/openfeature-testbed](https://github.com/flipt-io/openfeature-testbed) - Testbed for Flipt OpenFeature providers (1 day ago)
+- [flipt-io/openfeature-provider-go](https://github.com/flipt-io/openfeature-provider-go) - WIP implementation of an OpenFeature provider for Flipt (GRPC/HTTP) (1 day ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 days ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) -  (3 days ago)
+- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -27,7 +27,7 @@
 
 - [Dependency Injection Explained](https://markphelps.me/posts/dependency-injection-explained/) (9 months ago)
 - [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/) (10 months ago)
-- [Switching My gRPC Project to Use Buf](https://markphelps.me/posts/switching-my-grpc-project-to-use-buf/) (10 months ago)
+- [Switching My gRPC Project to Use Buf](https://markphelps.me/posts/switching-my-grpc-project-to-use-buf/) (11 months ago)
 - [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (11 months ago)
 - [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (11 months ago)
 
