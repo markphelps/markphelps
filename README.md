@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt-grpc-go](https://github.com/flipt-io/flipt-grpc-go) - GRPC Go client for Flipt (today)
-- [flipt-io/flipt-openfeature-provider-go](https://github.com/flipt-io/flipt-openfeature-provider-go) - OpenFeature provider for Flipt (GRPC/HTTP) (today)
-- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (today)
-- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (today)
-- [flipt-io/openfeature-testbed](https://github.com/flipt-io/openfeature-testbed) - Testbed for Flipt OpenFeature providers (1 day ago)
+- [flipt-io/flipt-grpc-go](https://github.com/flipt-io/flipt-grpc-go) - GRPC Go client for Flipt (1 day ago)
+- [flipt-io/flipt-openfeature-provider-go](https://github.com/flipt-io/flipt-openfeature-provider-go) - OpenFeature provider for Flipt (GRPC/HTTP) (1 day ago)
+- [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (1 day ago)
+- [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (1 day ago)
+- [flipt-io/openfeature-testbed](https://github.com/flipt-io/openfeature-testbed) - Testbed for Flipt OpenFeature providers (2 days ago)
 
 #### 🌱 My latest projects
 
