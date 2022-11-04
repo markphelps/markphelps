@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt-openfeature-provider-go](https://github.com/flipt-io/flipt-openfeature-provider-go) - OpenFeature provider for Flipt (GRPC/HTTP) (1 day ago)
+- [flipt-io/flipt-openfeature-provider-go](https://github.com/flipt-io/flipt-openfeature-provider-go) - OpenFeature provider for Flipt (GRPC/HTTP) (today)
 - [flipt-io/flipt-grpc-go](https://github.com/flipt-io/flipt-grpc-go) - GRPC Go client for Flipt (2 days ago)
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 days ago)
 - [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (2 days ago)
