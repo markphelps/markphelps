@@ -11,7 +11,7 @@
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (2 weeks ago)
 - [open-feature/docs.openfeature.dev](https://github.com/open-feature/docs.openfeature.dev) - OpenFeature Documentation (1 month ago)
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (4 months ago)
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (5 months ago)
 - [markphelps/flipt.io](https://github.com/markphelps/flipt.io) - Flipt Homepage (5 months ago)
 - [reposaur/docs](https://github.com/reposaur/docs) -  (5 months ago)
 
