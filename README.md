@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - Flipt Docs, powered by https://mintlify.com/ (2 days ago)
-- [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (2 days ago)
-- [flipt-io/flipt-rust](https://github.com/flipt-io/flipt-rust) - Official Rust SDK for Flipt (2 days ago)
-- [flipt-io/flipt-java](https://github.com/flipt-io/flipt-java) - Official Java SDK for the Flipt API (2 days ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 days ago)
+- [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - Flipt Docs, powered by https://mintlify.com/ (3 days ago)
+- [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (3 days ago)
+- [flipt-io/flipt-rust](https://github.com/flipt-io/flipt-rust) - Official Rust SDK for Flipt (3 days ago)
+- [flipt-io/flipt-java](https://github.com/flipt-io/flipt-java) - Official Java SDK for the Flipt API (3 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,8 +25,8 @@
 
 #### 📜 My recent blog posts
 
-- [Dependency Injection Explained](https://markphelps.me/posts/dependency-injection-explained/) (10 months ago)
-- [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/) (11 months ago)
+- [Dependency Injection Explained](https://markphelps.me/posts/dependency-injection-explained/) (11 months ago)
+- [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/) (1 year ago)
 - [Switching My gRPC Project to Use Buf](https://markphelps.me/posts/switching-my-grpc-project-to-use-buf/) (1 year ago)
 - [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (1 year ago)
 - [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (1 year ago)
