@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - Flipt Docs, powered by https://mintlify.com/ (3 days ago)
-- [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (3 days ago)
-- [flipt-io/flipt-rust](https://github.com/flipt-io/flipt-rust) - Official Rust SDK for Flipt (3 days ago)
-- [flipt-io/flipt-java](https://github.com/flipt-io/flipt-java) - Official Java SDK for the Flipt API (3 days ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (3 days ago)
+- [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - Flipt Docs, powered by https://mintlify.com/ (4 days ago)
+- [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (4 days ago)
+- [flipt-io/flipt-rust](https://github.com/flipt-io/flipt-rust) - Official Rust SDK for Flipt (4 days ago)
+- [flipt-io/flipt-java](https://github.com/flipt-io/flipt-java) - Official Java SDK for the Flipt API (4 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (4 days ago)
 
 #### 🌱 My latest projects
 
