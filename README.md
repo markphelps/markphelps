@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - Flipt Docs, powered by https://mintlify.com/ (3 days ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (4 days ago)
+- [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - Flipt Docs, powered by https://mintlify.com/ (4 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (5 days ago)
 - [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (1 week ago)
 - [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (1 week ago)
 - [flipt-io/flipt-openapi](https://github.com/flipt-io/flipt-openapi) - The OpenAPI description for the Flipt API. (1 week ago)
