@@ -9,10 +9,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (1 day ago)
-- [flipt-io/flipt-java](https://github.com/flipt-io/flipt-java) - Official Java SDK for the Flipt API (1 day ago)
-- [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - Flipt Docs, powered by https://mintlify.com/ (3 days ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (5 days ago)
+- [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (2 days ago)
+- [flipt-io/flipt-java](https://github.com/flipt-io/flipt-java) - Official Java SDK for the Flipt API (2 days ago)
+- [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - Flipt Docs, powered by https://mintlify.com/ (4 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (6 days ago)
 - [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -25,7 +25,7 @@
 
 #### 📜 My recent blog posts
 
-- [Dependency Injection Explained](https://markphelps.me/posts/dependency-injection-explained/) (11 months ago)
+- [Dependency Injection Explained](https://markphelps.me/posts/dependency-injection-explained/) (1 year ago)
 - [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/) (1 year ago)
 - [Switching My gRPC Project to Use Buf](https://markphelps.me/posts/switching-my-grpc-project-to-use-buf/) (1 year ago)
 - [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (1 year ago)
