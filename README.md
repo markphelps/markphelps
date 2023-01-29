@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [flipt-io/flipt-ui](https://github.com/flipt-io/flipt-ui) - Brand new UI for Flipt (today)
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 days ago)
-- [flipt-io/flipt-ui](https://github.com/flipt-io/flipt-ui) - Brand new UI for Flipt (2 days ago)
 - [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - Flipt Docs, powered by https://mintlify.com/ (2 days ago)
 - [flipt-io/flipt-grpc-ruby](https://github.com/flipt-io/flipt-grpc-ruby) - GRPC Ruby client for Flipt (6 days ago)
 - [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (6 days ago)
