@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
 - [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (1 day ago)
 - [flipt-io/flipt-ui](https://github.com/flipt-io/flipt-ui) - Brand new UI for Flipt (1 day ago)
 - [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 day ago)
