@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
-- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (1 day ago)
-- [markphelps/zero2prod](https://github.com/markphelps/zero2prod) -  (1 day ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (4 days ago)
-- [flipt-io/flipt-ui](https://github.com/flipt-io/flipt-ui) - Brand new UI for Flipt (4 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
+- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (2 days ago)
+- [markphelps/zero2prod](https://github.com/markphelps/zero2prod) -  (2 days ago)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (5 days ago)
+- [flipt-io/flipt-ui](https://github.com/flipt-io/flipt-ui) - Brand new UI for Flipt (5 days ago)
 
 #### 🌱 My latest projects
 
