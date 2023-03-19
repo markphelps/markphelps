@@ -9,9 +9,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
+- [flipt-io/flipt-ui](https://github.com/flipt-io/flipt-ui) - Brand new UI for Flipt (today)
 - [flipt-io/go-vanity](https://github.com/flipt-io/go-vanity) -  (2 days ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (4 days ago)
-- [flipt-io/flipt-ui](https://github.com/flipt-io/flipt-ui) - Brand new UI for Flipt (5 days ago)
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets. (1 week ago)
 - [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (2 weeks ago)
 
