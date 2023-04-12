@@ -10,10 +10,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
-- [flipt-io/flipt-grpc-ruby](https://github.com/flipt-io/flipt-grpc-ruby) - GRPC Ruby client for Flipt (today)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (1 day ago)
-- [flipt-io/grafana-dashboards](https://github.com/flipt-io/grafana-dashboards) - Repository containing re-usable Grafana dashboards for Flipt metrics. (1 day ago)
-- [flipt-io/flipt-grpc-go](https://github.com/flipt-io/flipt-grpc-go) - GRPC Go client for Flipt (1 day ago)
+- [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (today)
+- [flipt-io/flipt-rust](https://github.com/flipt-io/flipt-rust) - Official Rust SDK for Flipt (today)
+- [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (today)
+- [flipt-io/flipt-java](https://github.com/flipt-io/flipt-java) - Official Java SDK for the Flipt API (today)
 
 #### 🌱 My latest projects
 
