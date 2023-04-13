@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (today)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (today)
+- [flipt-io/flipt-grpc-go](https://github.com/flipt-io/flipt-grpc-go) - GRPC Go client for Flipt (today)
+- [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (today)
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
-- [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (1 day ago)
-- [flipt-io/flipt-rust](https://github.com/flipt-io/flipt-rust) - Official Rust SDK for Flipt (1 day ago)
-- [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 day ago)
-- [flipt-io/flipt-java](https://github.com/flipt-io/flipt-java) - Official Java SDK for the Flipt API (1 day ago)
 
 #### 🌱 My latest projects
 
