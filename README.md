@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/actions](https://github.com/flipt-io/actions) - Flipt GitHub Actions (today)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
-- [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (3 days ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (3 days ago)
-- [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (4 days ago)
+- [flipt-io/actions](https://github.com/flipt-io/actions) - Flipt GitHub Actions (1 day ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
+- [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (4 days ago)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (4 days ago)
+- [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 - [Dependency Injection Explained](https://markphelps.me/posts/dependency-injection-explained/) (1 year ago)
 - [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/) (1 year ago)
 - [Switching My gRPC Project to Use Buf](https://markphelps.me/posts/switching-my-grpc-project-to-use-buf/) (1 year ago)
-- [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (1 year ago)
+- [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/) (2 years ago)
 - [Writing Tests for Your Database Code in Go](https://markphelps.me/posts/writing-tests-for-your-database-code-in-go/) (2 years ago)
 
 #### 📫 How to reach me
