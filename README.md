@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (3 days ago)
-- [flipt-io/flipt-rust](https://github.com/flipt-io/flipt-rust) - Official Rust SDK for Flipt (4 days ago)
-- [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (4 days ago)
-- [flipt-io/flipt-openfeature-provider-go](https://github.com/flipt-io/flipt-openfeature-provider-go) - OpenFeature provider for Flipt (GRPC/HTTP) (4 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 days ago)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (4 days ago)
+- [flipt-io/flipt-rust](https://github.com/flipt-io/flipt-rust) - Official Rust SDK for Flipt (5 days ago)
+- [flipt-io/flipt-docs](https://github.com/flipt-io/flipt-docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (5 days ago)
+- [flipt-io/flipt-openfeature-provider-go](https://github.com/flipt-io/flipt-openfeature-provider-go) - OpenFeature provider for Flipt (GRPC/HTTP) (5 days ago)
 
 #### 🌱 My latest projects
 
