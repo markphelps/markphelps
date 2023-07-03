@@ -9,9 +9,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
-- [flipt-io/labs](https://github.com/flipt-io/labs) - Experimenting with Flipt 🧪 (3 days ago)
-- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (3 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 days ago)
+- [flipt-io/labs](https://github.com/flipt-io/labs) - Experimenting with Flipt 🧪 (4 days ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (4 days ago)
 - [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (1 week ago)
 - [flipt-io/flipt-python](https://github.com/flipt-io/flipt-python) -  (2 weeks ago)
 
