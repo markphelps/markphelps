@@ -9,10 +9,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [flipt-io/labs](https://github.com/flipt-io/labs) - Experimenting with Flipt 🧪 (today)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (today)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
 - [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 day ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (3 days ago)
-- [flipt-io/labs](https://github.com/flipt-io/labs) - Experimenting with Flipt 🧪 (1 week ago)
 - [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (2 weeks ago)
 
 #### 🌱 My latest projects
