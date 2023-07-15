@@ -9,10 +9,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
-- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 day ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (4 days ago)
-- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (6 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (2 days ago)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (5 days ago)
+- [markphelps/optional](https://github.com/markphelps/optional) - Optional is a library of optional Go types (1 week ago)
 - [flipt-io/labs](https://github.com/flipt-io/labs) - Experimenting with Flipt 🧪 (1 week ago)
 
 #### 🌱 My latest projects
