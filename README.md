@@ -10,10 +10,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (today)
 - [flipt-io/flipt-java](https://github.com/flipt-io/flipt-java) - Official Java SDK for the Flipt API (6 days ago)
 - [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (6 days ago)
 - [flipt-io/flipt-python](https://github.com/flipt-io/flipt-python) -  (6 days ago)
-- [flipt-io/flipt-grpc-ruby](https://github.com/flipt-io/flipt-grpc-ruby) - GRPC Ruby client for Flipt (6 days ago)
 
 #### 🌱 My latest projects
 
