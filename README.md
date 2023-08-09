@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [predictab-le/config](https://github.com/predictab-le/config) - Predictab.le Configuration (today)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
 - [flipt-io/validate-action](https://github.com/flipt-io/validate-action) - Flipt Validate Action (1 day ago)
 - [flipt-io/labs](https://github.com/flipt-io/labs) - Experimenting with Flipt 🧪 (1 day ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
 - [flipt-io/cup](https://github.com/flipt-io/cup) - Git Contribution Automation (2 days ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (2 days ago)
 
 #### 🌱 My latest projects
 
