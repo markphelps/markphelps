@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
-- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 day ago)
-- [predictab-le/config](https://github.com/predictab-le/config) - Predictab.le Configuration (1 day ago)
-- [flipt-io/labs](https://github.com/flipt-io/labs) - Experimenting with Flipt 🧪 (2 days ago)
-- [flipt-io/validate-action](https://github.com/flipt-io/validate-action) - Flipt Validate Action (2 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (2 days ago)
+- [predictab-le/config](https://github.com/predictab-le/config) - Predictab.le Configuration (2 days ago)
+- [flipt-io/labs](https://github.com/flipt-io/labs) - Experimenting with Flipt 🧪 (3 days ago)
+- [flipt-io/validate-action](https://github.com/flipt-io/validate-action) - Flipt Validate Action (3 days ago)
 
 #### 🌱 My latest projects
 
