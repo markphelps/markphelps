@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (today)
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
 - [flipt-io/homebrew-brew](https://github.com/flipt-io/homebrew-brew) - brew tap flipt-io/brew (2 days ago)
 - [flipt-io/ffs](https://github.com/flipt-io/ffs) - Flipt Flag Search 🏁 (2 days ago)
 - [flipt-io/migrator](https://github.com/flipt-io/migrator) - Migrate from other feature flag sources to Flipt (2 days ago)
-- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 week ago)
 
 #### 🌱 My latest projects
 
