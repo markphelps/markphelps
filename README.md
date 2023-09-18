@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/cup](https://github.com/flipt-io/cup) - Git Contribution Automation (2 days ago)
-- [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (3 days ago)
-- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (4 days ago)
-- [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (4 days ago)
-- [flipt-io/flipt-python](https://github.com/flipt-io/flipt-python) -  (4 days ago)
+- [flipt-io/cup](https://github.com/flipt-io/cup) - Git Contribution Automation (3 days ago)
+- [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (4 days ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (5 days ago)
+- [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (5 days ago)
+- [flipt-io/flipt-python](https://github.com/flipt-io/flipt-python) -  (5 days ago)
 
 #### 🌱 My latest projects
 
