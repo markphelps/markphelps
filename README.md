@@ -10,10 +10,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 day ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (1 day ago)
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (1 day ago)
-- [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (2 days ago)
-- [flipt-io/flipt-java](https://github.com/flipt-io/flipt-java) - Official Java SDK for the Flipt API (5 days ago)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (2 days ago)
+- [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (3 days ago)
 
 #### 🌱 My latest projects
 
