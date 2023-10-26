@@ -10,10 +10,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (today)
 - [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 day ago)
 - [digitalocean/marketplace-kubernetes](https://github.com/digitalocean/marketplace-kubernetes) - This repository contains the source code and deployment scripts for Kubernetes-based applications listed in the DigitalOcean Marketplace. (1 day ago)
 - [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (2 days ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (3 days ago)
 
 #### 🌱 My latest projects
 
