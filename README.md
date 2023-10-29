@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (2 days ago)
-- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (3 days ago)
-- [digitalocean/marketplace-kubernetes](https://github.com/digitalocean/marketplace-kubernetes) - This repository contains the source code and deployment scripts for Kubernetes-based applications listed in the DigitalOcean Marketplace. (3 days ago)
-- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (4 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 days ago)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (3 days ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (4 days ago)
+- [digitalocean/marketplace-kubernetes](https://github.com/digitalocean/marketplace-kubernetes) - This repository contains the source code and deployment scripts for Kubernetes-based applications listed in the DigitalOcean Marketplace. (4 days ago)
+- [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib) - Community contributions for hooks and reference providers (5 days ago)
 
 #### 🌱 My latest projects
 
