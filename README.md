@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 day ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 days ago)
-- [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (4 days ago)
-- [flipt-io/flipt-grpc-dotnet](https://github.com/flipt-io/flipt-grpc-dotnet) -  (4 days ago)
-- [flipt-io/flipt-python](https://github.com/flipt-io/flipt-python) -  (5 days ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (2 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (3 days ago)
+- [flipt-io/flipt-api](https://github.com/flipt-io/flipt-api) - Flipt&#39;s API definition which is used to generate SDKs. (5 days ago)
+- [flipt-io/flipt-grpc-dotnet](https://github.com/flipt-io/flipt-grpc-dotnet) -  (5 days ago)
+- [flipt-io/flipt-python](https://github.com/flipt-io/flipt-python) -  (6 days ago)
 
 #### 🌱 My latest projects
 
