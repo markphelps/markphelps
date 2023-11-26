@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (today)
 - [flipt-io/flipt-java](https://github.com/flipt-io/flipt-java) - Official Java SDK for the Flipt API (5 days ago)
 - [flipt-io/flipt-php](https://github.com/flipt-io/flipt-php) - Official PHP SDK for the Flipt API  (5 days ago)
 - [flipt-io/flipt-python](https://github.com/flipt-io/flipt-python) -  (5 days ago)
