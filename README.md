@@ -12,7 +12,7 @@
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
 - [flipt-io/flipt-php](https://github.com/flipt-io/flipt-php) - Official PHP SDK for the Flipt API  (6 days ago)
 - [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 week ago)
-- [flipt-io/flipt-java](https://github.com/flipt-io/flipt-java) - Official Java SDK for the Flipt API (1 week ago)
+- [flipt-io/flipt-grpc-dotnet](https://github.com/flipt-io/flipt-grpc-dotnet) -  (1 week ago)
 - [flipt-io/flipt-python](https://github.com/flipt-io/flipt-python) -  (1 week ago)
 
 #### 🌱 My latest projects
