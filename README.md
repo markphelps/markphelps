@@ -9,10 +9,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/validate-action](https://github.com/flipt-io/validate-action) - Flipt Validate Action (1 day ago)
-- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 day ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 day ago)
-- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (1 day ago)
+- [flipt-io/validate-action](https://github.com/flipt-io/validate-action) - Flipt Validate Action (2 days ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (2 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 days ago)
+- [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (2 days ago)
 - [flipt-io/flipt-php](https://github.com/flipt-io/flipt-php) - Official PHP SDK for the Flipt API  (2 weeks ago)
 
 #### 🌱 My latest projects
