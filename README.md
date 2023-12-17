@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution (2 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution (today)
 - [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (3 days ago)
 - [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) - Flipt Client-Side Evaluation SDKs (5 days ago)
 - [flipt-io/validate-action](https://github.com/flipt-io/validate-action) - Flipt Validate Action (6 days ago)
