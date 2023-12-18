@@ -12,8 +12,8 @@
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution (1 day ago)
 - [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (4 days ago)
 - [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) - Flipt Client-Side Evaluation SDKs (6 days ago)
-- [flipt-io/validate-action](https://github.com/flipt-io/validate-action) - Flipt Validate Action (1 week ago)
 - [flipt-io/helm-charts](https://github.com/flipt-io/helm-charts) - Helm charts for the Flipt organization (1 week ago)
+- [flipt-io/validate-action](https://github.com/flipt-io/validate-action) - Flipt Validate Action (1 week ago)
 
 #### 🌱 My latest projects
 
