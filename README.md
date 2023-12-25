@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) - Flipt Client-Side Evaluation SDKs (today)
-- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (2 days ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution (2 days ago)
-- [flipt-io/.github](https://github.com/flipt-io/.github) -  (3 days ago)
-- [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (4 days ago)
+- [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) - Flipt Client-Side Evaluation SDKs (1 day ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (3 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution (3 days ago)
+- [flipt-io/.github](https://github.com/flipt-io/.github) -  (4 days ago)
+- [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (5 days ago)
 
 #### 🌱 My latest projects
 
