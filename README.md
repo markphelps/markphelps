@@ -10,10 +10,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [flipt-io/validate-action](https://github.com/flipt-io/validate-action) - Flipt Validate Action (1 day ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 day ago)
 - [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) - Flipt Client-Side Evaluation SDKs (1 day ago)
 - [flipt-io/setup-action](https://github.com/flipt-io/setup-action) - Install Flipt CLI in your GitHub Workflows (1 day ago)
 - [flipt-io/.github](https://github.com/flipt-io/.github) -  (2 days ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution (2 days ago)
 
 #### 🌱 My latest projects
 
