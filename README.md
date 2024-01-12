@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt-server-sdks](https://github.com/flipt-io/flipt-server-sdks) - Flipt Server-Side SDKs (today)
-- [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) - Flipt Client-Side Evaluation SDKs (today)
-- [flipt-io/flipt-grpc-dotnet](https://github.com/flipt-io/flipt-grpc-dotnet) -  (today)
-- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 day ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GRPC powered, GitOps enabled, CloudNative feature management solution (1 day ago)
+- [flipt-io/flipt-grpc-dotnet](https://github.com/flipt-io/flipt-grpc-dotnet) -  (1 day ago)
+- [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) - Flipt Client-Side Evaluation SDKs (1 day ago)
+- [flipt-io/flipt-php](https://github.com/flipt-io/flipt-php) - Official PHP SDK for the Flipt API  (1 day ago)
+- [flipt-io/flipt-server-sdks](https://github.com/flipt-io/flipt-server-sdks) - Flipt Server-Side SDKs (1 day ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (2 days ago)
 
 #### 🌱 My latest projects
 
