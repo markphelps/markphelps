@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GRPC powered, GitOps enabled, CloudNative feature management solution (3 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GRPC powered, GitOps enabled, CloudNative feature management solution (1 day ago)
 - [flipt-io/flipt-grpc-dotnet](https://github.com/flipt-io/flipt-grpc-dotnet) -  (4 days ago)
 - [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) - Flipt Client-Side Evaluation SDKs (4 days ago)
 - [flipt-io/flipt-server-sdks](https://github.com/flipt-io/flipt-server-sdks) - Flipt Server-Side SDKs (4 days ago)
