@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) - Flipt Client-Side Evaluation SDKs (today)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution (today)
-- [flipt-io/flipt-php](https://github.com/flipt-io/flipt-php) - Official PHP SDK for the Flipt API  (2 days ago)
-- [flipt-io/flipt-server-sdks](https://github.com/flipt-io/flipt-server-sdks) - Flipt Server-Side SDKs (2 days ago)
-- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (3 days ago)
+- [flipt-io/flipt-node](https://github.com/flipt-io/flipt-node) - Official Node.js SDK for the Flipt API (1 day ago)
+- [flipt-io/docs](https://github.com/flipt-io/docs) - https://www.flipt.io/docs (powered by https://mintlify.com/) (1 day ago)
+- [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) - Flipt Client-Side Evaluation SDKs (1 day ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution (1 day ago)
+- [flipt-io/flipt-python](https://github.com/flipt-io/flipt-python) -  (1 day ago)
 
 #### 🌱 My latest projects
 
